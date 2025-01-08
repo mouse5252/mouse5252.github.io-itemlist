@@ -69,6 +69,7 @@ mods:
 
 # Build settings
 remote_theme: sylhare/Type-on-Strap   
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
 markdown: kramdown
 sass:
   style: compressed
