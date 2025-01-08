@@ -592,7 +592,7 @@
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "cat",
@@ -670,13 +670,13 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -754,7 +754,7 @@
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "cobrameat",
@@ -1048,13 +1048,13 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckmeat",
@@ -1234,7 +1234,7 @@
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "endtable",
@@ -1540,13 +1540,13 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "grandmeditationthrone",
@@ -1900,7 +1900,7 @@
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "iguanameat",
@@ -2548,7 +2548,7 @@
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "ovum",
@@ -3772,7 +3772,7 @@
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "tortoisemeat",
@@ -3898,7 +3898,7 @@
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "turkeymeat",
@@ -4180,175 +4180,175 @@
       "abr": "churchdossier:bishopclass",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_Bishop",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:bishopi",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_BishopI",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:bishopii",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_BishopII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:captain",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_PawnIV",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:cardinal",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_BishopIV",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:classpermits",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_ClassPermission",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:consul",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_BishopIII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:eternalfortress",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_RookIV",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:guard",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_PawnIII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:knighti",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_KnightI",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:knightii",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_KnightII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:milian",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_Milian",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:milianknightclass",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_Knight",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:milianpawnclass",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_Pawn",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:milianrookclass",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_Rook",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:milira",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_Milira",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:outrider",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_KnightIII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:paladin",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_KnightIV",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:pawni",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_PawnI",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:pawnii",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_PawnII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:rooki",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_RookI",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:rookii",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_RookII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:skyfeatheredchurch",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_ChurchIntrodction",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:solarcrystal",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_SolarCrystal",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:solarfuel",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_SunLightFuel",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:solar-forgedsteel",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_SunPlateSteel",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:striker",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_MilianClass_RookIII",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:sunbloom",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_SunLightFlower",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "churchdossier:sunblastfurnace",
       "category": "Church dossiers",
       "defname": "Milira_InformationLetterI_SunBlastFurnace",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "classpermit:bishop",
