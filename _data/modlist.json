@@ -1,4 +1,4 @@
-[][
+[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -138,6 +138,30 @@
     "version": null
   },
   {
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Barbariank",
+    "name": "Hooman cute",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragons Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ELF SLAYER",
+    "name": "Sandevistan Implant 3",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Atlas",
     "name": "Fallout Traits Continued",
     "steamId": null,
@@ -150,10 +174,16 @@
     "version": null
   },
   {
-    "author": "Barbariank",
-    "name": "Hooman cute",
-    "steamId": null,
-    "version": null
+    "author": "miyamiya, twsta and vokaerian",
+    "name": "Compressed Raid",
+    "steamId": "3227665030",
+    "version": "1.5"
+  },
+  {
+    "author": "Cavenaugh",
+    "name": "[KV] Call Trade Ships [1.5 Patched]",
+    "steamId": "3226502149",
+    "version": "1.0.0.0"
   },
   {
     "author": "FLASHPOINT55",
@@ -210,10 +240,28 @@
     "version": "1.0.0"
   },
   {
+    "author": "Roolo",
+    "name": "Search and Destroy (Unofficial Update)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "1trickPwnyta's Defaults",
+    "steamId": "3285178686",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tweaks Galore",
+    "steamId": "2695164414",
+    "version": "3.0.9046.40132"
   },
   {
     "author": "Murmur",
