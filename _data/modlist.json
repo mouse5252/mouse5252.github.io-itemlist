@@ -6,6 +6,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -114,6 +120,18 @@
     "version": null
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - More Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ancot",
     "name": "Milira Race",
     "steamId": "3256974620",
@@ -156,10 +174,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "AOTC: True Pinnacle of Creation",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ELF SLAYER",
     "name": "Sandevistan Implant 3",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "DaLLaN",
+    "name": "Cyber Fauna (Continued)",
+    "steamId": "3263134806",
+    "version": "1.5.0"
   },
   {
     "author": "Atlas",
@@ -180,6 +216,12 @@
     "version": "1.5"
   },
   {
+    "author": "Teiwaz",
+    "name": "GTG Orbital Traders",
+    "steamId": "2961168731",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Cavenaugh",
     "name": "[KV] Call Trade Ships [1.5 Patched]",
     "steamId": "3226502149",
@@ -198,16 +240,28 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+    "author": "Al Sweigart",
+    "name": "Main Character Plot Armor",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Slime-Senpai",
     "name": "EndlessGrowth",
     "steamId": "2894401734",
     "version": "1.5.2.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.7.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
   },
   {
     "author": "Netrve",
@@ -256,6 +310,12 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Brok",
+    "name": "No Limit Raid Point",
+    "steamId": "3245589752",
+    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",

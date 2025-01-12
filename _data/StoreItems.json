@@ -8966,7 +8966,7 @@
 	},
 	{
 		"abr": "dragonian",
-		"price": 9667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Dragonian_Race"
 	},
@@ -9311,7 +9311,1579 @@
 		"price": 4167,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggYellowDragonFertilized"
+	},
+	{
+		"abr": "accelerant",
+		"price": 917,
+		"category": "Drugs",
+		"defname": "SNS_Drug_Combat_II"
+	},
+	{
+		"abr": "advancedbillardstable",
+		"price": 12825,
+		"category": "Furniture",
+		"defname": "SNS_BilliardsTable"
+	},
+	{
+		"abr": "advancedchesstable",
+		"price": 6350,
+		"category": "Furniture",
+		"defname": "SNS_ChessTable"
+	},
+	{
+		"abr": "advancedgame-of-urboard",
+		"price": 4742,
+		"category": "Furniture",
+		"defname": "SNS_UrBoard"
+	},
+	{
+		"abr": "advancedgiga-television",
+		"price": 117775,
+		"category": "Recreation",
+		"defname": "SNS_Television_GenII"
+	},
+	{
+		"abr": "advancednutrientbar",
+		"price": 58,
+		"category": "Meals",
+		"defname": "SNS_Meal_Nutrient_GenII"
+	},
+	{
+		"abr": "advancedpokertable",
+		"price": 8975,
+		"category": "Furniture",
+		"defname": "SNS_PokerTable"
+	},
+	{
+		"abr": "aegis",
+		"price": 40,
+		"category": "Drugs",
+		"defname": "SNS_Aegis"
+	},
+	{
+		"abr": "aeterno",
+		"price": 333,
+		"category": "Drugs",
+		"defname": "SNS_Aeterno"
+	},
+	{
+		"abr": "amplifierofambition(cosmiccomponent#5/5)",
+		"price": 66667,
+		"category": "Artifacts",
+		"defname": "SNS_CosmicCall_Component_V"
+	},
+	{
+		"abr": "ascendance",
+		"price": 2500,
+		"category": "Drugs",
+		"defname": "SNS_Drug_Combat_III"
+	},
+	{
+		"abr": "astralrefuter(cosmiccomponent#4/5)",
+		"price": 58333,
+		"category": "Artifacts",
+		"defname": "SNS_CosmicCall_Component_IV"
+	},
+	{
+		"abr": "atomicfabricator",
+		"price": 81433,
+		"category": "Production",
+		"defname": "Table_SNS_Constructor"
+	},
+	{
+		"abr": "beckoningofdesire(cosmiccomponent#3/5)",
+		"price": 41667,
+		"category": "Artifacts",
+		"defname": "SNS_CosmicCall_Component_III"
+	},
+	{
+		"abr": "boost",
+		"price": 200,
+		"category": "Drugs",
+		"defname": "SNS_Drug_Combat_I"
+	},
+	{
+		"abr": "charonarmor",
+		"price": 247658,
+		"category": "Armor",
+		"defname": "SNS_Apparel_StableMatterPowerArmor"
+	},
+	{
+		"abr": "charonhelmet",
+		"price": 101408,
+		"category": "Headgear",
+		"defname": "SNS_Apparel_StableMatterPowerArmorHelmet"
+	},
+	{
+		"abr": "cosmicalloy",
+		"price": 375,
+		"category": "Raw resources",
+		"defname": "SNS_CosmicAlloy"
+	},
+	{
+		"abr": "cosmicarm",
+		"price": 29225,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicArm_GenII"
+	},
+	{
+		"abr": "cosmicbatterygeneration1",
+		"price": 4125,
+		"category": "Power",
+		"defname": "SNS_Battery_I"
+	},
+	{
+		"abr": "cosmicbatterygeneration2",
+		"price": 50300,
+		"category": "Power",
+		"defname": "SNS_Battery_II"
+	},
+	{
+		"abr": "cosmicbatterygenerationomega",
+		"price": 109467,
+		"category": "Power",
+		"defname": "SNS_Battery_III"
+	},
+	{
+		"abr": "cosmicbionicforge",
+		"price": 11117,
+		"category": "Production",
+		"defname": "Table_SNS_BionicCraftingStation_GenII"
+	},
+	{
+		"abr": "cosmiccatalystfuelcell",
+		"price": 87,
+		"category": "Manufactured",
+		"defname": "SNS_Unobtainium_Fuel"
+	},
+	{
+		"abr": "cosmiccomponent",
+		"price": 2708,
+		"category": "Manufactured",
+		"defname": "SNS_Component_GenII"
+	},
+	{
+		"abr": "cosmiccomputer",
+		"price": 96875,
+		"category": "Recreation",
+		"defname": "SNS_Computer_GenII"
+	},
+	{
+		"abr": "cosmicdigestivesystem",
+		"price": 15392,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicStomach_GenII"
+	},
+	{
+		"abr": "cosmicear",
+		"price": 20808,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicEar_GenII"
+	},
+	{
+		"abr": "cosmicempgrenade",
+		"price": 8292,
+		"category": "Grenades",
+		"defname": "SNS_EMPGrenade"
+	},
+	{
+		"abr": "cosmiceye",
+		"price": 20808,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicEye_GenII"
+	},
+	{
+		"abr": "cosmicforge",
+		"price": 1950,
+		"category": "Production",
+		"defname": "Table_SNS_Unobtainer"
+	},
+	{
+		"abr": "cosmicfraggrenade",
+		"price": 6125,
+		"category": "Grenades",
+		"defname": "SNS_FragGrenade"
+	},
+	{
+		"abr": "cosmicheadshroud",
+		"price": 11100,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicHead_GenII"
+	},
+	{
+		"abr": "cosmicheart",
+		"price": 13892,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicHeart_GenII"
+	},
+	{
+		"abr": "cosmicjaw",
+		"price": 11100,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicJaw_GenII"
+	},
+	{
+		"abr": "cosmickidney",
+		"price": 11183,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicKidney_GenII"
+	},
+	{
+		"abr": "cosmicleg",
+		"price": 29225,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicLeg_GenII"
+	},
+	{
+		"abr": "cosmicliver",
+		"price": 15392,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicLiver_GenII"
+	},
+	{
+		"abr": "cosmiclung",
+		"price": 15392,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicLung_GenII"
+	},
+	{
+		"abr": "cosmicmanipulator",
+		"price": 8883,
+		"category": "Production",
+		"defname": "Table_SNS_CosmicDrawer"
+	},
+	{
+		"abr": "cosmicmatter",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "SNS_CosmicMatter"
+	},
+	{
+		"abr": "cosmicmedicine",
+		"price": 6667,
+		"category": "Medicine",
+		"defname": "SNS_Medicine_GenII"
+	},
+	{
+		"abr": "cosmicneckshroud",
+		"price": 11100,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicNeck_GenII"
+	},
+	{
+		"abr": "cosmicneuralenchanter",
+		"price": 35558,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicBrain_GenII"
+	},
+	{
+		"abr": "cosmicnose",
+		"price": 20808,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicNose_GenII"
+	},
+	{
+		"abr": "cosmicobserver",
+		"price": 55000,
+		"category": "Recreation",
+		"defname": "SNS_Telescope_GenIII"
+	},
+	{
+		"abr": "cosmicpistol",
+		"price": 11475,
+		"category": "Ranged weapons",
+		"defname": "SNS_Pistol_GenII"
+	},
+	{
+		"abr": "cosmicpowerarmor",
+		"price": 121217,
+		"category": "Armor",
+		"defname": "SNS_Apparel_CosmicPowerArmor"
+	},
+	{
+		"abr": "cosmicpowerarmorhelmet",
+		"price": 59258,
+		"category": "Headgear",
+		"defname": "SNS_Apparel_CosmicPowerArmorHelmet"
+	},
+	{
+		"abr": "cosmicrifle",
+		"price": 36075,
+		"category": "Ranged weapons",
+		"defname": "SNS_Rifle_GenII"
+	},
+	{
+		"abr": "cosmicshotgun",
+		"price": 46283,
+		"category": "Ranged weapons",
+		"defname": "SNS_Shotgun_GenII"
+	},
+	{
+		"abr": "cosmicsniper",
+		"price": 68367,
+		"category": "Ranged weapons",
+		"defname": "SNS_Sniper_GenII"
+	},
+	{
+		"abr": "cosmicspine",
+		"price": 27350,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicSpine_GenII"
+	},
+	{
+		"abr": "cosmictorsoshroud",
+		"price": 11100,
+		"category": "Cosmic bionic",
+		"defname": "SNS_Item_BionicTorso_GenII"
+	},
+	{
+		"abr": "cosmicweave",
+		"price": 188,
+		"category": "Manufactured",
+		"defname": "SNS_CosmicAlloyWeave"
+	},
+	{
+		"abr": "cyclealphaarmor",
+		"price": 16666665,
+		"category": "Armor",
+		"defname": "SNS_Apparel_FirstCycleArmor"
+	},
+	{
+		"abr": "cyclealphahelmet",
+		"price": 16666665,
+		"category": "Armor",
+		"defname": "SNS_Apparel_FirstCycleHelmet"
+	},
+	{
+		"abr": "decadentmeal",
+		"price": 200,
+		"category": "Meals",
+		"defname": "SNS_Meal_Normal_GenII"
+	},
+	{
+		"abr": "enigmaticarm",
+		"price": 25708,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicArm_GenIII"
+	},
+	{
+		"abr": "enigmaticbionicforge",
+		"price": 18008,
+		"category": "Production",
+		"defname": "Table_SNS_BionicCraftingStation_GenIII"
+	},
+	{
+		"abr": "enigmaticcomponent",
+		"price": 6042,
+		"category": "Manufactured",
+		"defname": "SNS_Component_GenIII"
+	},
+	{
+		"abr": "enigmaticcomputer",
+		"price": 95833,
+		"category": "Recreation",
+		"defname": "SNS_Computer_GenIII"
+	},
+	{
+		"abr": "enigmaticdigestivesystem",
+		"price": 28750,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicStomach_GenIII"
+	},
+	{
+		"abr": "enigmaticear",
+		"price": 10625,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicEar_GenIII"
+	},
+	{
+		"abr": "enigmaticeye",
+		"price": 10625,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicEye_GenIII"
+	},
+	{
+		"abr": "enigmaticheadshroud",
+		"price": 17792,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicHead_GenIII"
+	},
+	{
+		"abr": "enigmaticheart",
+		"price": 15167,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicHeart_GenIII"
+	},
+	{
+		"abr": "enigmaticjaw",
+		"price": 21958,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicJaw_GenIII"
+	},
+	{
+		"abr": "enigmatickidney",
+		"price": 9125,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicKidney_GenIII"
+	},
+	{
+		"abr": "enigmaticleg",
+		"price": 25708,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicLeg_GenIII"
+	},
+	{
+		"abr": "enigmaticliver",
+		"price": 16667,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicLiver_GenIII"
+	},
+	{
+		"abr": "enigmaticlung",
+		"price": 10625,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicLung_GenIII"
+	},
+	{
+		"abr": "enigmaticmedicine",
+		"price": 13333,
+		"category": "Medicine",
+		"defname": "SNS_Medicine_GenIII"
+	},
+	{
+		"abr": "enigmaticneckshroud",
+		"price": 17792,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicNeck_GenIII"
+	},
+	{
+		"abr": "enigmaticneuralenchanter",
+		"price": 93708,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicBrain_GenIII"
+	},
+	{
+		"abr": "enigmaticnose",
+		"price": 10625,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicNose_GenIII"
+	},
+	{
+		"abr": "enigmaticspine",
+		"price": 23833,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicSpine_GenIII"
+	},
+	{
+		"abr": "enigmatictorsoshroud",
+		"price": 21958,
+		"category": "Enigmatic bionic",
+		"defname": "SNS_Item_BionicTorso_GenIII"
+	},
+	{
+		"abr": "eternalpistol",
+		"price": 13592,
+		"category": "Ranged weapons",
+		"defname": "SNS_Pistol_GenIII"
+	},
+	{
+		"abr": "eternalrifle",
+		"price": 29450,
+		"category": "Ranged weapons",
+		"defname": "SNS_Rifle_GenIII"
+	},
+	{
+		"abr": "eternalshotgun",
+		"price": 46750,
+		"category": "Ranged weapons",
+		"defname": "SNS_Shotgun_GenIII"
+	},
+	{
+		"abr": "eternalsniper",
+		"price": 75300,
+		"category": "Ranged weapons",
+		"defname": "SNS_Sniper_GenIII"
+	},
+	{
+		"abr": "eternitycell",
+		"price": 1439000,
+		"category": "Power",
+		"defname": "SNS_Hidden"
+	},
+	{
+		"abr": "eternium",
+		"price": 833,
+		"category": "Raw resources",
+		"defname": "SNS_Eternium"
+	},
+	{
+		"abr": "forbiddenknowledge(cosmiccomponent#2/5)",
+		"price": 58333,
+		"category": "Artifacts",
+		"defname": "SNS_CosmicCall_Component_II"
+	},
+	{
+		"abr": "fractureofgreatness(cosmiccomponent#1/5)",
+		"price": 41667,
+		"category": "Artifacts",
+		"defname": "SNS_CosmicCall_Component_I"
+	},
+	{
+		"abr": "giftofeternity",
+		"price": 70000,
+		"category": "Medicine",
+		"defname": "SNS_Medicine_Pinnacle"
+	},
+	{
+		"abr": "giga-television",
+		"price": 28633,
+		"category": "Recreation",
+		"defname": "SNS_Television_GenI"
+	},
+	{
+		"abr": "handheldcosmiclance",
+		"price": 109675,
+		"category": "Ranged weapons",
+		"defname": "SNS_CosmicLance"
+	},
+	{
+		"abr": "hedonia",
+		"price": 250,
+		"category": "Drugs",
+		"defname": "SNS_Hedonia"
+	},
+	{
+		"abr": "hedonisticmeal",
+		"price": 408,
+		"category": "Meals",
+		"defname": "SNS_Meal_Normal_GenIII"
+	},
+	{
+		"abr": "hedonist'sdream",
+		"price": 2500,
+		"category": "Meals",
+		"defname": "SNS_Meal_Normal_GenIV"
+	},
+	{
+		"abr": "high-yieldtelescope",
+		"price": 4250,
+		"category": "Recreation",
+		"defname": "SNS_Telescope_GenI"
+	},
+	{
+		"abr": "lightstellarturret",
+		"price": 3758,
+		"category": "Security",
+		"defname": "SNS_Turret_LightCosmic"
+	},
+	{
+		"abr": "lux",
+		"price": 67,
+		"category": "Drugs",
+		"defname": "SNS_Lux"
+	},
+	{
+		"abr": "luxuriousnutrientbar",
+		"price": 167,
+		"category": "Meals",
+		"defname": "SNS_Meal_Nutrient_GenIII"
+	},
+	{
+		"abr": "nutrientbar",
+		"price": 8,
+		"category": "Meals",
+		"defname": "SNS_Meal_Nutrient_GenI"
+	},
+	{
+		"abr": "nutrientprocessor",
+		"price": 2417,
+		"category": "Production",
+		"defname": "Table_SNS_NutrientProcessor"
+	},
+	{
+		"abr": "panacea",
+		"price": 750,
+		"category": "Drugs",
+		"defname": "SNS_Panacea"
+	},
+	{
+		"abr": "patterntransmissionunit",
+		"price": 103583,
+		"category": "Recreation",
+		"defname": "SNS_Television_GenIII"
+	},
+	{
+		"abr": "perditionlightstellarturret",
+		"price": 4033,
+		"category": "Security",
+		"defname": "SNS_Turret_PerditionLightCosmic"
+	},
+	{
+		"abr": "portablecosmicreactorgeneration1",
+		"price": 5667,
+		"category": "Power",
+		"defname": "SNS_Reactor_I_Portable"
+	},
+	{
+		"abr": "portablecosmicreactorgeneration2",
+		"price": 54375,
+		"category": "Power",
+		"defname": "SNS_Reactor_II_Portable"
+	},
+	{
+		"abr": "r.i.f.t.fabricator",
+		"price": 98183,
+		"category": "Production",
+		"defname": "Table_SNS_CosmicCall"
+	},
+	{
+		"abr": "stablematter",
+		"price": 8333,
+		"category": "Raw resources",
+		"defname": "SNS_StableMatter"
+	},
+	{
+		"abr": "starsteel",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "SNS_Unobtainium"
+	},
+	{
+		"abr": "starsteelhelmet",
+		"price": 4117,
+		"category": "Headgear",
+		"defname": "SNS_Apparel_CosmicAlloyHelmet"
+	},
+	{
+		"abr": "starsteelplatearmor",
+		"price": 23883,
+		"category": "Armor",
+		"defname": "SNS_Apparel_CosmicAlloyPlateArmor"
+	},
+	{
+		"abr": "starsteelwool",
+		"price": 42,
+		"category": "Manufactured",
+		"defname": "SNS_Unobtainium_Fiber"
+	},
+	{
+		"abr": "stellararm",
+		"price": 4367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicArm_GenI"
+	},
+	{
+		"abr": "stellarbionicforge",
+		"price": 3283,
+		"category": "Production",
+		"defname": "Table_SNS_BionicCraftingStation_GenI"
+	},
+	{
+		"abr": "stellarcomputer",
+		"price": 16500,
+		"category": "Recreation",
+		"defname": "SNS_Computer_GenI"
+	},
+	{
+		"abr": "stellardigestivesystem",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicStomach_GenI"
+	},
+	{
+		"abr": "stellarear",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicEar_GenI"
+	},
+	{
+		"abr": "stellareye",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicEye_GenI"
+	},
+	{
+		"abr": "stellarheadshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicHead_GenI"
+	},
+	{
+		"abr": "stellarheart",
+		"price": 2033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicHeart_GenI"
+	},
+	{
+		"abr": "stellarjaw",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicJaw_GenI"
+	},
+	{
+		"abr": "stellarkidney",
+		"price": 1700,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicKidney_GenI"
+	},
+	{
+		"abr": "stellarleg",
+		"price": 4367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLeg_GenI"
+	},
+	{
+		"abr": "stellarliver",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLiver_GenI"
+	},
+	{
+		"abr": "stellarlung",
+		"price": 2367,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicLung_GenI"
+	},
+	{
+		"abr": "stellarmedicine",
+		"price": 583,
+		"category": "Medicine",
+		"defname": "SNS_Medicine_GenI"
+	},
+	{
+		"abr": "stellarneckshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicNeck_GenI"
+	},
+	{
+		"abr": "stellarneuralenchanter",
+		"price": 4700,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicBrain_GenI"
+	},
+	{
+		"abr": "stellarnose",
+		"price": 3033,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicNose_GenI"
+	},
+	{
+		"abr": "stellarpistol",
+		"price": 2417,
+		"category": "Ranged weapons",
+		"defname": "SNS_Pistol_GenI"
+	},
+	{
+		"abr": "stellarrifle",
+		"price": 5117,
+		"category": "Ranged weapons",
+		"defname": "SNS_Rifle_GenI"
+	},
+	{
+		"abr": "stellarshotgun",
+		"price": 3775,
+		"category": "Ranged weapons",
+		"defname": "SNS_Shotgun_GenI"
+	},
+	{
+		"abr": "stellarsniper",
+		"price": 6475,
+		"category": "Ranged weapons",
+		"defname": "SNS_Sniper_GenI"
+	},
+	{
+		"abr": "stellarspine",
+		"price": 3950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicSpine_GenI"
+	},
+	{
+		"abr": "stellartorsoshroud",
+		"price": 1950,
+		"category": "Stellar bionic",
+		"defname": "SNS_Item_BionicTorso_GenI"
+	},
+	{
+		"abr": "stim-iv",
+		"price": 117,
+		"category": "Drugs",
+		"defname": "SNS_Stim_I"
+	},
+	{
+		"abr": "stim-vii",
+		"price": 533,
+		"category": "Drugs",
+		"defname": "SNS_Stim_II"
+	},
+	{
+		"abr": "stim-x",
+		"price": 833,
+		"category": "Drugs",
+		"defname": "SNS_Stim_III"
+	},
+	{
+		"abr": "temporaltelescope",
+		"price": 38542,
+		"category": "Recreation",
+		"defname": "SNS_Telescope_GenII"
+	},
+	{
+		"abr": "theb.e.h.o.l.d.e.r.",
+		"price": 8333334,
+		"category": "Ranged weapons",
+		"defname": "SNS_BeholderGun"
+	},
+	{
+		"abr": "theexarch",
+		"price": 422717,
+		"category": "Ranged weapons",
+		"defname": "SNS_EterniumLance"
+	},
+	{
+		"abr": "ther.e.c.u.r.s.i.o.n.",
+		"price": 8333334,
+		"category": "Melee weapons",
+		"defname": "SNS_RecursionMelee"
+	},
+	{
+		"abr": "thet.e.r.m.i.n.u.s.",
+		"price": 8333334,
+		"category": "Ranged weapons",
+		"defname": "SNS_TerminusGun"
+	},
+	{
+		"abr": "theutopiadevice",
+		"price": 1303392,
+		"category": "Production",
+		"defname": "Table_SNS_PinnacleFabricator"
+	},
+	{
+		"abr": "zenitharm",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicArm_GenIV"
+	},
+	{
+		"abr": "zenithdigestivesystem",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicStomach_GenIV"
+	},
+	{
+		"abr": "zenithear",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEar_GenIV"
+	},
+	{
+		"abr": "zenitheye",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicEye_GenIV"
+	},
+	{
+		"abr": "zenithheadshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHead_GenIV"
+	},
+	{
+		"abr": "zenithheart",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicHeart_GenIV"
+	},
+	{
+		"abr": "zenithjaw",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicJaw_GenIV"
+	},
+	{
+		"abr": "zenithkidney",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicKidney_GenIV"
+	},
+	{
+		"abr": "zenithleg",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLeg_GenIV"
+	},
+	{
+		"abr": "zenithliver",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLiver_GenIV"
+	},
+	{
+		"abr": "zenithlung",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicLung_GenIV"
+	},
+	{
+		"abr": "zenithneckshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNeck_GenIV"
+	},
+	{
+		"abr": "zenithneuralenchantment",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicBrain_GenIV"
+	},
+	{
+		"abr": "zenithnose",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicNose_GenIV"
+	},
+	{
+		"abr": "zenithspine",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicSpine_GenIV"
+	},
+	{
+		"abr": "zenithtorsoshroud",
+		"price": 100000,
+		"category": "Zenith bionic",
+		"defname": "SNS_Item_BionicTorso_GenIV"
+	},
+	{
+		"abr": "advancedminicomponent",
+		"price": 108,
+		"category": "Manufactured",
+		"defname": "MiniComponentSpacer"
+	},
+	{
+		"abr": "androidfuel",
+		"price": 40,
+		"category": "Foods",
+		"defname": "BS_AndroidFuel"
+	},
+	{
+		"abr": "animalbodybattlebooster",
+		"price": 1225,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniBody"
+	},
+	{
+		"abr": "animalbrainimplant",
+		"price": 767,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniChip"
+	},
+	{
+		"abr": "animalgiantizer",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_Giant_Serum"
+	},
+	{
+		"abr": "animalheadbattlebooster",
+		"price": 1017,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniHead"
+	},
+	{
+		"abr": "animallab",
+		"price": 783,
+		"category": "Production",
+		"defname": "AnimalLab"
+	},
+	{
+		"abr": "animalminimizer",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_Shrink_Serum"
+	},
+	{
+		"abr": "animalneckbattlebooster",
+		"price": 617,
+		"category": "Animal prostheses",
+		"defname": "CFBattleAniNeck"
+	},
+	{
+		"abr": "anomalousshard",
+		"price": 667,
+		"category": "Manufactured",
+		"defname": "BS_DarkSoulshard"
+	},
+	{
+		"abr": "architegenomecloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateArchiteXenogerm_Endo"
+	},
+	{
+		"abr": "architexenogermcloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateArchiteXenogerm"
+	},
+	{
+		"abr": "archotechanimalbrain",
+		"price": 2500,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniChip"
+	},
+	{
+		"abr": "archotechanimaleye",
+		"price": 2000,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniEye"
+	},
+	{
+		"abr": "archotechanimaljaw",
+		"price": 2333,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniJaw"
+	},
+	{
+		"abr": "archotechanimalleg",
+		"price": 1833,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniPaw"
+	},
+	{
+		"abr": "archotechanimalspine",
+		"price": 2333,
+		"category": "Animal Archotech prostheses",
+		"defname": "CFArchoAniSpine"
+	},
+	{
+		"abr": "archotechapparel-integrator",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "BS_IndestructibelApparel"
+	},
+	{
+		"abr": "bionicanimaleye",
+		"price": 306,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniEye"
+	},
+	{
+		"abr": "bionicanimalheart",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniHeart"
+	},
+	{
+		"abr": "bionicanimaljaw",
+		"price": 425,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniJaw"
+	},
+	{
+		"abr": "bionicanimalkidney",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniKidney"
+	},
+	{
+		"abr": "bionicanimalleg",
+		"price": 318,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniPaw"
+	},
+	{
+		"abr": "bionicanimalliver",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniLiver"
+	},
+	{
+		"abr": "bionicanimallung",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniLung"
+	},
+	{
+		"abr": "bionicanimalspine",
+		"price": 500,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniSpine"
+	},
+	{
+		"abr": "bionicanimalstomach",
+		"price": 291,
+		"category": "Animal prostheses",
+		"defname": "CFBionicAniStomach"
+	},
+	{
+		"abr": "bioniclocomotivespine",
+		"price": 4025,
+		"category": "Bionic",
+		"defname": "BS_BionicLocomotiveSpine"
+	},
+	{
+		"abr": "bionicstriderleg",
+		"price": 1733,
+		"category": "Bionic",
+		"defname": "BS_BionicStriderLeg"
+	},
+	{
+		"abr": "carnivorelargefinemeal",
+		"price": 100,
+		"category": "Meals",
+		"defname": "BS_MealLargeFine_Meat"
+	},
+	{
+		"abr": "carnivorelargelavishmeal",
+		"price": 120,
+		"category": "Meals",
+		"defname": "BS_MealLargeLavish_Meat"
+	},
+	{
+		"abr": "centauroid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_Centaur"
+	},
+	{
+		"abr": "centauroidwithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArm"
+	},
+	{
+		"abr": "centauroidwithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurFourArmWinged"
+	},
+	{
+		"abr": "centauroidwithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_CentaurWinged"
+	},
+	{
+		"abr": "finelargemeal",
+		"price": 100,
+		"category": "Meals",
+		"defname": "BS_MealLargeFine"
+	},
+	{
+		"abr": "fourarmedhuman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanFouramed"
+	},
+	{
+		"abr": "four-armedhumanlikewithatail",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailed"
+	},
+	{
+		"abr": "four-armedhumanlikewithatailandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmTailedWinged"
+	},
+	{
+		"abr": "four-armedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_FourArmWinged"
+	},
+	{
+		"abr": "geneintegrator",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_GeneGeneIntegrator"
+	},
+	{
+		"abr": "germlinecloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateXenogerm_Endo"
+	},
+	{
+		"abr": "giantclub",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "BS_OgreClub"
+	},
+	{
+		"abr": "giantprimitivehammer",
+		"price": 408,
+		"category": "Melee weapons",
+		"defname": "BS_GiantHammer"
+	},
+	{
+		"abr": "giantsword",
+		"price": 792,
+		"category": "Melee weapons",
+		"defname": "BS_JotunSword"
+	},
+	{
+		"abr": "giantwarhammer",
+		"price": 1058,
+		"category": "Melee weapons",
+		"defname": "BS_JotunHammer"
+	},
+	{
+		"abr": "glutton",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "BS_GluttonRace"
+	},
+	{
+		"abr": "growthray",
+		"price": 717,
+		"category": "Ranged weapons",
+		"defname": "BMad_GrowthRay"
+	},
+	{
+		"abr": "growth-raymini-turret",
+		"price": 1042,
+		"category": "Security",
+		"defname": "BMAD_GrowthTurret"
+	},
+	{
+		"abr": "hugejavelin",
+		"price": 642,
+		"category": "Ranged weapons",
+		"defname": "BS_JotunJavelin"
+	},
+	{
+		"abr": "insect-likehumanoid",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "BS_InsectoidHumanoid_FourArmed"
+	},
+	{
+		"abr": "lavishlargemeal",
+		"price": 200,
+		"category": "Meals",
+		"defname": "BS_MealLargeLavish"
+	},
+	{
+		"abr": "mech",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "BS_UrbMech"
+	},
+	{
+		"abr": "mechwithatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailed"
+	},
+	{
+		"abr": "mechwithatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaTailedWinged"
+	},
+	{
+		"abr": "mechwithfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArm"
+	},
+	{
+		"abr": "mechwithfourarmsandatail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailed"
+	},
+	{
+		"abr": "mechwithfourarmsandatailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmTailedWinged"
+	},
+	{
+		"abr": "mechwithfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaFourArmWinged"
+	},
+	{
+		"abr": "mechwithfourlegs",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaur"
+	},
+	{
+		"abr": "mechwithfourlegsandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArm"
+	},
+	{
+		"abr": "mechwithfourlegsandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurFourArmWinged"
+	},
+	{
+		"abr": "mechwithfourlegsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaCentaurWinged"
+	},
+	{
+		"abr": "mechwithserpent-liketail",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnek"
+	},
+	{
+		"abr": "mechwithserpent-liketailandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArm"
+	},
+	{
+		"abr": "mechwithserpent-liketailandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekFourArmWinged"
+	},
+	{
+		"abr": "mechwithserpent-liketailandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSnekWinged"
+	},
+	{
+		"abr": "mechwithspider-likeabdomen",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooder"
+	},
+	{
+		"abr": "mechwithspider-likeabdomenandfourarms",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArm"
+	},
+	{
+		"abr": "mechwithspider-likeabdomenandfourarmsandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderFourArmWinged"
+	},
+	{
+		"abr": "mechwithspider-likeabdomenandwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaSpooderWinged"
+	},
+	{
+		"abr": "mechwithwings",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "M_MechaWinged"
+	},
+	{
+		"abr": "packagedlargesurvivalmeal",
+		"price": 120,
+		"category": "Meals",
+		"defname": "BS_MealLargeSurvivalPack"
+	},
+	{
+		"abr": "personaskrýmir'smallet",
+		"price": 5833,
+		"category": "Persona weapons",
+		"defname": "BS_SkrymirHammer_Persona"
+	},
+	{
+		"abr": "personaswordofsurtr",
+		"price": 5833,
+		"category": "Persona weapons",
+		"defname": "BS_SurtrSword_Persona"
+	},
+	{
+		"abr": "prostheticanimaleye",
+		"price": 128,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniEye"
+	},
+	{
+		"abr": "prostheticanimaljaw",
+		"price": 144,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniJaw"
+	},
+	{
+		"abr": "prostheticanimalleg",
+		"price": 131,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniPaw"
+	},
+	{
+		"abr": "prostheticanimalspine",
+		"price": 219,
+		"category": "Animal prostheses",
+		"defname": "CFSimpleAniSpine"
+	},
+	{
+		"abr": "serpent-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArm"
+	},
+	{
+		"abr": "serpent-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekFourArmWinged"
+	},
+	{
+		"abr": "serpent-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SnekWinged"
+	},
+	{
+		"abr": "shrinkray",
+		"price": 717,
+		"category": "Ranged weapons",
+		"defname": "BMad_ShrinkRay"
+	},
+	{
+		"abr": "shrink-raymini-turret",
+		"price": 1042,
+		"category": "Security",
+		"defname": "BMAD_ShrinkTurret"
+	},
+	{
+		"abr": "simplelargemeal",
+		"price": 75,
+		"category": "Meals",
+		"defname": "BS_MealLargeSimple"
+	},
+	{
+		"abr": "six-armedsnake-person",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "BS_Marlith"
+	},
+	{
+		"abr": "skrýmir'smallet",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "BS_SkrymirHammer"
+	},
+	{
+		"abr": "snake-person",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_Naga"
+	},
+	{
+		"abr": "spider-likewithfourarms",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArm"
+	},
+	{
+		"abr": "spider-likewithfourarmsandwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderFourArmWinged"
+	},
+	{
+		"abr": "spider-likewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_SpooderWinged"
+	},
+	{
+		"abr": "spider-person",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_SpiderPersonRace"
+	},
+	{
+		"abr": "swordofsurtr",
+		"price": 4167,
+		"category": "Melee weapons",
+		"defname": "BS_SurtrSword"
+	},
+	{
+		"abr": "tailedhumanlikewithwings",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "G_TailedWinged"
+	},
+	{
+		"abr": "tailedhumanoid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanoidWithTail"
+	},
+	{
+		"abr": "throwingchunks",
+		"price": 83,
+		"category": "Ranged weapons",
+		"defname": "BS_OgreThrowinRock"
+	},
+	{
+		"abr": "vegetarianlargefinemeal",
+		"price": 100,
+		"category": "Meals",
+		"defname": "BS_MealLargeFine_Veg"
+	},
+	{
+		"abr": "vegetarianlargelavishmeal",
+		"price": 200,
+		"category": "Meals",
+		"defname": "BS_MealLargeLavish_Veg"
+	},
+	{
+		"abr": "warmechanti-materialrifle",
+		"price": 1175,
+		"category": "Ranged weapons",
+		"defname": "BS_JotunRifle"
+	},
+	{
+		"abr": "warmechmachinegun",
+		"price": 2850,
+		"category": "Ranged weapons",
+		"defname": "BS_GiantMinigun"
+	},
+	{
+		"abr": "warmechrocketlauncher",
+		"price": 2600,
+		"category": "Ranged weapons",
+		"defname": "BS_JotunRocketLauncher"
+	},
+	{
+		"abr": "wingedhumanoid",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "BS_HumanoidWithWings"
+	},
+	{
+		"abr": "xenodiscombobulator",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_GeneDicombobulator"
+	},
+	{
+		"abr": "xenogermcloner",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_CreateXenogerm"
+	},
+	{
+		"abr": "xeno-germlinemirroring",
+		"price": 1667,
+		"category": "Misc",
+		"defname": "BS_XenoCopy"
 	}
 	],
-	"total": 1552
+	"total": 1814
 }
