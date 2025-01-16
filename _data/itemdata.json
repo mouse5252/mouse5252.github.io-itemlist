@@ -300,7 +300,7 @@
     "KarmaType": null
   },
   "ArchotechEye": {
-    "CustomName": null,
+    "CustomName": "archotecheye",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -340,7 +340,7 @@
     "KarmaType": null
   },
   "ArchotechLeg": {
-    "CustomName": null,
+    "CustomName": "archotechleg",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -19040,7 +19040,7 @@
     "KarmaType": null
   },
   "FSFArchotechLung": {
-    "CustomName": null,
+    "CustomName": "archotechlung",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -19060,7 +19060,7 @@
     "KarmaType": null
   },
   "FSFArchotechKidney": {
-    "CustomName": null,
+    "CustomName": "archotechkidney",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -38560,7 +38560,7 @@
     "KarmaType": null
   },
   "YanzArchotechEar": {
-    "CustomName": null,
+    "CustomName": "archotechear",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -38680,7 +38680,7 @@
     "KarmaType": null
   },
   "YanzArchotechHeart": {
-    "CustomName": null,
+    "CustomName": "archotechheart",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -38720,7 +38720,7 @@
     "KarmaType": null
   },
   "YanzArchotechLiver": {
-    "CustomName": null,
+    "CustomName": "archotechliver",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
