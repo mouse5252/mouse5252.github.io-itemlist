@@ -5044,13 +5044,13 @@
           "+5.00% animal products price improvement"
         ],
         "canBypassLimit": false,
-        "customName": true,
+        "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Fallout Traits Continued",
         "karmaTypeForAdding": null
       },
       "defName": "FT_AnimalFriend",
-      "name": "animalfriend1"
+      "name": "animalfriend"
     },
     {
       "canAdd": true,
@@ -6770,13 +6770,13 @@
         "conflicts": [],
         "stats": [],
         "canBypassLimit": false,
-        "customName": true,
+        "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Big and Small - Genes & More",
         "karmaTypeForAdding": null
       },
       "defName": "BS_AnimalFriend",
-      "name": "animalfriend2"
+      "name": "animalfriend"
     },
     {
       "canAdd": true,

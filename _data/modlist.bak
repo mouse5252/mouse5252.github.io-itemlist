@@ -36,12 +36,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ancot",
     "name": "Ancot Library",
     "steamId": null,
@@ -180,8 +174,8 @@
     "version": null
   },
   {
-    "author": "Seioch and MaroonToon",
-    "name": "Kurin HAR Edition",
+    "author": "Roo",
+    "name": "Gloomy Dragonian race",
     "steamId": null,
     "version": null
   },
@@ -254,12 +248,6 @@
   {
     "author": "Atlas",
     "name": "Fallout Traits Continued",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alias",
-    "name": "De-generalize Work",
     "steamId": null,
     "version": null
   },
