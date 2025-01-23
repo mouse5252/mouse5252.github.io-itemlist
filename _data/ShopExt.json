@@ -7058,13 +7058,13 @@
           "+120 Bulk capacity"
         ],
         "mod": "Unknown",
-        "karmaType": null
+        "karmaType": "Good"
       },
       "description": "A tall humanoid race known for their unique overbearing antlers, immense physical strength, and notably low agility. Moosesians are reclusive by nature and though they are commonly docile, most prefer to stick to their kin and would become agitated at the first sign of aggression. Each and every Moosesian is a member of their respective family until their coming of age when they are obliged to venture off and start their own, an average Moosesian household could range anywhere from a few dozens to almost fifty, and sometimes more. When compared to baseline humans, they possess much 'slower' intelligence which, combined with their tendency to fight among themselves, is the sole reason they have yet to dominate the rim with their sheer numbers.",
       "defName": "Moosesian",
       "enabled": true,
       "name": "Moosesian",
-      "price": 4167
+      "price": 1000
     },
     {
       "data": {
@@ -7108,7 +7108,7 @@
       },
       "description": "Including the 'Ordinary', the common ancestor of Miho is a \"Red Fox\", not a human. Of course, this is not due to natural evolution but is presumed to be the result of uplift by an unknown transcendent being. This means they look like humans but are not actually human. They have an \"Elegans\" linked with mechanites in their bodies, which determines the strength of their psychic powers depending on the amount of sunlight. Because of this organ, these foxes pray to the sun and energy.",
       "defName": "Alien_Miho",
-      "enabled": true,
+      "enabled": false,
       "name": "Miho",
       "price": 2500
     },
@@ -7152,7 +7152,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": true,
+      "enabled": false,
       "name": "Nyaron",
       "price": 5000
     },
@@ -7199,7 +7199,7 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
       "defName": "Kurin_Race",
-      "enabled": true,
+      "enabled": false,
       "name": "Kurin",
       "price": 2917
     }
