@@ -5180,13 +5180,13 @@
 	},
 	{
 		"abr": "archotechear",
-		"price": 4300,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "FSFArchotechEar"
 	},
 	{
 		"abr": "archotechheart",
-		"price": 4450,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "FSFArchotechHeart"
 	},
@@ -5204,7 +5204,7 @@
 	},
 	{
 		"abr": "archotechliver",
-		"price": 4300,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "FSFArchotechLiver"
 	},
@@ -5234,13 +5234,13 @@
 	},
 	{
 		"abr": "archotechspine",
-		"price": 5783,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "FSFArchotechSpine"
 	},
 	{
 		"abr": "archotechstomach",
-		"price": 4300,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "FSFArchotechStomach"
 	},
@@ -10568,121 +10568,121 @@
 	},
 	{
 		"abr": "mech",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "BS_UrbMech"
 	},
 	{
 		"abr": "mechwithatail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaTailed"
 	},
 	{
 		"abr": "mechwithatailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaTailedWinged"
 	},
 	{
 		"abr": "mechwithfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArm"
 	},
 	{
 		"abr": "mechwithfourarmsandatail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmTailed"
 	},
 	{
 		"abr": "mechwithfourarmsandatailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmTailedWinged"
 	},
 	{
 		"abr": "mechwithfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaFourArmWinged"
 	},
 	{
 		"abr": "mechwithfourlegs",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaur"
 	},
 	{
 		"abr": "mechwithfourlegsandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurFourArm"
 	},
 	{
 		"abr": "mechwithfourlegsandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurFourArmWinged"
 	},
 	{
 		"abr": "mechwithfourlegsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaCentaurWinged"
 	},
 	{
 		"abr": "mechwithserpent-liketail",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnek"
 	},
 	{
 		"abr": "mechwithserpent-liketailandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekFourArm"
 	},
 	{
 		"abr": "mechwithserpent-liketailandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekFourArmWinged"
 	},
 	{
 		"abr": "mechwithserpent-liketailandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSnekWinged"
 	},
 	{
 		"abr": "mechwithspider-likeabdomen",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooder"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandfourarms",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderFourArm"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandfourarmsandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderFourArmWinged"
 	},
 	{
 		"abr": "mechwithspider-likeabdomenandwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaSpooderWinged"
 	},
 	{
 		"abr": "mechwithwings",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "M_MechaWinged"
 	},
@@ -10946,7 +10946,7 @@
 	},
 	{
 		"abr": "archotecharm",
-		"price": 10058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechArm"
 	},
@@ -11012,7 +11012,7 @@
 	},
 	{
 		"abr": "archotecheye",
-		"price": 5058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechEye"
 	},
@@ -11042,13 +11042,13 @@
 	},
 	{
 		"abr": "archotechkidney",
-		"price": 10058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechKidney"
 	},
 	{
 		"abr": "archotechleg",
-		"price": 10058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechLeg"
 	},
@@ -11060,7 +11060,7 @@
 	},
 	{
 		"abr": "archotechlung",
-		"price": 10058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechLung"
 	},
@@ -11150,7 +11150,7 @@
 	},
 	{
 		"abr": "archotechstomach",
-		"price": 10058,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "YanzArchotechStomach"
 	},
@@ -12488,7 +12488,7 @@
 	},
 	{
 		"abr": "kurin",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Kurin_Race"
 	},
@@ -12851,7 +12851,175 @@
 		"price": 84,
 		"category": "Security",
 		"defname": "DRNTF_NooseTrap"
+	},
+	{
+		"abr": "absolverarmor",
+		"price": 5333,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorAbsolver"
+	},
+	{
+		"abr": "absolverhelmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_AbsolverHelmet"
+	},
+	{
+		"abr": "aperitif",
+		"price": 27,
+		"category": "Drugs",
+		"defname": "VFEE_Aperitif"
+	},
+	{
+		"abr": "candelabra",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "VFEE_Candelabra"
+	},
+	{
+		"abr": "chargethumper",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VFEE_Gun_ChargeThumper"
+	},
+	{
+		"abr": "deserterarmor",
+		"price": 6883,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_ArmorDeserter"
+	},
+	{
+		"abr": "deserterhelmet",
+		"price": 1267,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_DeserterHelmet"
+	},
+	{
+		"abr": "dragoniancoldmace",
+		"price": 4408,
+		"category": "Persona weapons",
+		"defname": "DR_SoulMace"
+	},
+	{
+		"abr": "fletcher",
+		"price": 4583,
+		"category": "Ranged weapons",
+		"defname": "VEE_Gun_Fletcher"
+	},
+	{
+		"abr": "grandchair",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "VFEE_GrandChair"
+	},
+	{
+		"abr": "grandimperialsculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureGrand"
+	},
+	{
+		"abr": "grandroyalrug",
+		"price": 525,
+		"category": "Furniture",
+		"defname": "VFEE_GrandRoyalRug"
+	},
+	{
+		"abr": "grandtable",
+		"price": 1133,
+		"category": "Furniture",
+		"defname": "VFEE_GrandTable"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialBanner"
+	},
+	{
+		"abr": "imperialslab",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_ImperialSlab"
+	},
+	{
+		"abr": "janissarycuirass",
+		"price": 2567,
+		"category": "Armor",
+		"defname": "VFEE_Apparel_JanissaryCuirass"
+	},
+	{
+		"abr": "janissaryhelmet",
+		"price": 1075,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_JanissaryHelmet"
+	},
+	{
+		"abr": "largeimperialsculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureLarge"
+	},
+	{
+		"abr": "largeroyalrug",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VFEE_LargeRoyalRug"
+	},
+	{
+		"abr": "organ",
+		"price": 2167,
+		"category": "Recreation",
+		"defname": "VFEE_PipeOrgan"
+	},
+	{
+		"abr": "personatoxblade",
+		"price": 3333,
+		"category": "Persona weapons",
+		"defname": "VFEE_MeleeWeapon_ToxbladeBladelink"
+	},
+	{
+		"abr": "royalmirror",
+		"price": 230,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalMirror"
+	},
+	{
+		"abr": "royalstool",
+		"price": 433,
+		"category": "Furniture",
+		"defname": "VFEE_RoyalStool"
+	},
+	{
+		"abr": "smallimperialsculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFEE_RoyalSculptureSmall"
+	},
+	{
+		"abr": "stellicmeditationthrone",
+		"price": 5542,
+		"category": "Furniture",
+		"defname": "VFEE_StellicThrone"
+	},
+	{
+		"abr": "stellicrobe",
+		"price": 583,
+		"category": "Noble apparel",
+		"defname": "VFE_Apparel_StellicRobe"
+	},
+	{
+		"abr": "techfriarcrown",
+		"price": 67,
+		"category": "Headgear",
+		"defname": "VFEE_Apparel_TechfriarCrown"
+	},
+	{
+		"abr": "toxblade",
+		"price": 3000,
+		"category": "Melee weapons",
+		"defname": "VFEE_MeleeWeapon_Toxblade"
 	}
 	],
-	"total": 2142
+	"total": 2170
 }
