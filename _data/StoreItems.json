@@ -6448,13 +6448,13 @@
       "abr": "cyclealphaarmor",
       "category": "Armor",
       "defname": "SNS_Apparel_FirstCycleArmor",
-      "price": -10
+      "price": 16666665
     },
     {
       "abr": "cyclealphahelmet",
       "category": "Armor",
       "defname": "SNS_Apparel_FirstCycleHelmet",
-      "price": -10
+      "price": 16666665
     },
     {
       "abr": "decadentmeal",
@@ -6634,7 +6634,7 @@
       "abr": "giftofeternity",
       "category": "Medicine",
       "defname": "SNS_Medicine_Pinnacle",
-      "price": -10
+      "price": 70000
     },
     {
       "abr": "giga-television",
@@ -6664,7 +6664,7 @@
       "abr": "hedonist'sdream",
       "category": "Meals",
       "defname": "SNS_Meal_Normal_GenIV",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "high-yieldtelescope",
@@ -6742,7 +6742,7 @@
       "abr": "stablematter",
       "category": "Raw resources",
       "defname": "SNS_StableMatter",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "starsteel",
@@ -6934,7 +6934,7 @@
       "abr": "theb.e.h.o.l.d.e.r.",
       "category": "Ranged weapons",
       "defname": "SNS_BeholderGun",
-      "price": -10
+      "price": 8333334
     },
     {
       "abr": "theexarch",
@@ -6946,13 +6946,13 @@
       "abr": "ther.e.c.u.r.s.i.o.n.",
       "category": "Melee weapons",
       "defname": "SNS_RecursionMelee",
-      "price": -10
+      "price": 8333334
     },
     {
       "abr": "thet.e.r.m.i.n.u.s.",
       "category": "Ranged weapons",
       "defname": "SNS_TerminusGun",
-      "price": -10
+      "price": 8333334
     },
     {
       "abr": "theutopiadevice",
@@ -6964,97 +6964,97 @@
       "abr": "zenitharm",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicArm_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithdigestivesystem",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicStomach_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithear",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicEar_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenitheye",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicEye_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithheadshroud",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicHead_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithheart",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicHeart_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithjaw",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicJaw_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithkidney",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicKidney_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithleg",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicLeg_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithliver",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicLiver_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithlung",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicLung_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithneckshroud",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicNeck_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithneuralenchantment",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicBrain_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithnose",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicNose_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithspine",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicSpine_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "zenithtorsoshroud",
       "category": "Zenith bionic",
       "defname": "SNS_Item_BionicTorso_GenIV",
-      "price": -10
+      "price": 100000
     },
     {
       "abr": "advancedminicomponent",

@@ -6118,331 +6118,331 @@
       "abr": "accelerant",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_II",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "advancedbillardstable",
       "category": "Furniture",
       "defname": "SNS_BilliardsTable",
-      "price": -10
+      "price": 12825
     },
     {
       "abr": "advancedchesstable",
       "category": "Furniture",
       "defname": "SNS_ChessTable",
-      "price": -10
+      "price": 6350
     },
     {
       "abr": "advancedgame-of-urboard",
       "category": "Furniture",
       "defname": "SNS_UrBoard",
-      "price": -10
+      "price": 4742
     },
     {
       "abr": "advancedgiga-television",
       "category": "Recreation",
       "defname": "SNS_Television_GenII",
-      "price": -10
+      "price": 117775
     },
     {
       "abr": "advancednutrientbar",
       "category": "Meals",
       "defname": "SNS_Meal_Nutrient_GenII",
-      "price": -10
+      "price": 58
     },
     {
       "abr": "advancedpokertable",
       "category": "Furniture",
       "defname": "SNS_PokerTable",
-      "price": -10
+      "price": 8975
     },
     {
       "abr": "aegis",
       "category": "Drugs",
       "defname": "SNS_Aegis",
-      "price": -10
+      "price": 40
     },
     {
       "abr": "aeterno",
       "category": "Drugs",
       "defname": "SNS_Aeterno",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "amplifierofambition(cosmiccomponent#5/5)",
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_V",
-      "price": -10
+      "price": 66667
     },
     {
       "abr": "ascendance",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_III",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "astralrefuter(cosmiccomponent#4/5)",
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_IV",
-      "price": -10
+      "price": 58333
     },
     {
       "abr": "atomicfabricator",
       "category": "Production",
       "defname": "Table_SNS_Constructor",
-      "price": -10
+      "price": 81433
     },
     {
       "abr": "beckoningofdesire(cosmiccomponent#3/5)",
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_III",
-      "price": -10
+      "price": 41667
     },
     {
       "abr": "boost",
       "category": "Drugs",
       "defname": "SNS_Drug_Combat_I",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "charonarmor",
       "category": "Armor",
       "defname": "SNS_Apparel_StableMatterPowerArmor",
-      "price": -10
+      "price": 247658
     },
     {
       "abr": "charonhelmet",
       "category": "Headgear",
       "defname": "SNS_Apparel_StableMatterPowerArmorHelmet",
-      "price": -10
+      "price": 101408
     },
     {
       "abr": "cosmicalloy",
       "category": "Raw resources",
       "defname": "SNS_CosmicAlloy",
-      "price": -10
+      "price": 375
     },
     {
       "abr": "cosmicarm",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicArm_GenII",
-      "price": -10
+      "price": 29225
     },
     {
       "abr": "cosmicbatterygeneration1",
       "category": "Power",
       "defname": "SNS_Battery_I",
-      "price": -10
+      "price": 4125
     },
     {
       "abr": "cosmicbatterygeneration2",
       "category": "Power",
       "defname": "SNS_Battery_II",
-      "price": -10
+      "price": 50300
     },
     {
       "abr": "cosmicbatterygenerationomega",
       "category": "Power",
       "defname": "SNS_Battery_III",
-      "price": -10
+      "price": 109467
     },
     {
       "abr": "cosmicbionicforge",
       "category": "Production",
       "defname": "Table_SNS_BionicCraftingStation_GenII",
-      "price": -10
+      "price": 11117
     },
     {
       "abr": "cosmiccatalystfuelcell",
       "category": "Manufactured",
       "defname": "SNS_Unobtainium_Fuel",
-      "price": -10
+      "price": 87
     },
     {
       "abr": "cosmiccomponent",
       "category": "Manufactured",
       "defname": "SNS_Component_GenII",
-      "price": -10
+      "price": 2708
     },
     {
       "abr": "cosmiccomputer",
       "category": "Recreation",
       "defname": "SNS_Computer_GenII",
-      "price": -10
+      "price": 96875
     },
     {
       "abr": "cosmicdigestivesystem",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicStomach_GenII",
-      "price": -10
+      "price": 15392
     },
     {
       "abr": "cosmicear",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicEar_GenII",
-      "price": -10
+      "price": 20808
     },
     {
       "abr": "cosmicempgrenade",
       "category": "Grenades",
       "defname": "SNS_EMPGrenade",
-      "price": -10
+      "price": 8292
     },
     {
       "abr": "cosmiceye",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicEye_GenII",
-      "price": -10
+      "price": 20808
     },
     {
       "abr": "cosmicforge",
       "category": "Production",
       "defname": "Table_SNS_Unobtainer",
-      "price": -10
+      "price": 1950
     },
     {
       "abr": "cosmicfraggrenade",
       "category": "Grenades",
       "defname": "SNS_FragGrenade",
-      "price": -10
+      "price": 6125
     },
     {
       "abr": "cosmicheadshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicHead_GenII",
-      "price": -10
+      "price": 11100
     },
     {
       "abr": "cosmicheart",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicHeart_GenII",
-      "price": -10
+      "price": 13892
     },
     {
       "abr": "cosmicjaw",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicJaw_GenII",
-      "price": -10
+      "price": 11100
     },
     {
       "abr": "cosmickidney",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicKidney_GenII",
-      "price": -10
+      "price": 11183
     },
     {
       "abr": "cosmicleg",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLeg_GenII",
-      "price": -10
+      "price": 29225
     },
     {
       "abr": "cosmicliver",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLiver_GenII",
-      "price": -10
+      "price": 15392
     },
     {
       "abr": "cosmiclung",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicLung_GenII",
-      "price": -10
+      "price": 15392
     },
     {
       "abr": "cosmicmanipulator",
       "category": "Production",
       "defname": "Table_SNS_CosmicDrawer",
-      "price": -10
+      "price": 8883
     },
     {
       "abr": "cosmicmatter",
       "category": "Raw resources",
       "defname": "SNS_CosmicMatter",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "cosmicmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenII",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "cosmicneckshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicNeck_GenII",
-      "price": -10
+      "price": 11100
     },
     {
       "abr": "cosmicneuralenchanter",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicBrain_GenII",
-      "price": -10
+      "price": 35558
     },
     {
       "abr": "cosmicnose",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicNose_GenII",
-      "price": -10
+      "price": 20808
     },
     {
       "abr": "cosmicobserver",
       "category": "Recreation",
       "defname": "SNS_Telescope_GenIII",
-      "price": -10
+      "price": 55000
     },
     {
       "abr": "cosmicpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenII",
-      "price": -10
+      "price": 11475
     },
     {
       "abr": "cosmicpowerarmor",
       "category": "Armor",
       "defname": "SNS_Apparel_CosmicPowerArmor",
-      "price": -10
+      "price": 121217
     },
     {
       "abr": "cosmicpowerarmorhelmet",
       "category": "Headgear",
       "defname": "SNS_Apparel_CosmicPowerArmorHelmet",
-      "price": -10
+      "price": 59258
     },
     {
       "abr": "cosmicrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenII",
-      "price": -10
+      "price": 36075
     },
     {
       "abr": "cosmicshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenII",
-      "price": -10
+      "price": 46283
     },
     {
       "abr": "cosmicsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenII",
-      "price": -10
+      "price": 68367
     },
     {
       "abr": "cosmicspine",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicSpine_GenII",
-      "price": -10
+      "price": 27350
     },
     {
       "abr": "cosmictorsoshroud",
       "category": "Cosmic bionic",
       "defname": "SNS_Item_BionicTorso_GenII",
-      "price": -10
+      "price": 11100
     },
     {
       "abr": "cosmicweave",
       "category": "Manufactured",
       "defname": "SNS_CosmicAlloyWeave",
-      "price": -10
+      "price": 188
     },
     {
       "abr": "cyclealphaarmor",
@@ -6460,175 +6460,175 @@
       "abr": "decadentmeal",
       "category": "Meals",
       "defname": "SNS_Meal_Normal_GenII",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "enigmaticarm",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicArm_GenIII",
-      "price": -10
+      "price": 25708
     },
     {
       "abr": "enigmaticbionicforge",
       "category": "Production",
       "defname": "Table_SNS_BionicCraftingStation_GenIII",
-      "price": -10
+      "price": 18008
     },
     {
       "abr": "enigmaticcomponent",
       "category": "Manufactured",
       "defname": "SNS_Component_GenIII",
-      "price": -10
+      "price": 6042
     },
     {
       "abr": "enigmaticcomputer",
       "category": "Recreation",
       "defname": "SNS_Computer_GenIII",
-      "price": -10
+      "price": 95833
     },
     {
       "abr": "enigmaticdigestivesystem",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicStomach_GenIII",
-      "price": -10
+      "price": 28750
     },
     {
       "abr": "enigmaticear",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicEar_GenIII",
-      "price": -10
+      "price": 10625
     },
     {
       "abr": "enigmaticeye",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicEye_GenIII",
-      "price": -10
+      "price": 10625
     },
     {
       "abr": "enigmaticheadshroud",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicHead_GenIII",
-      "price": -10
+      "price": 17792
     },
     {
       "abr": "enigmaticheart",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicHeart_GenIII",
-      "price": -10
+      "price": 15167
     },
     {
       "abr": "enigmaticjaw",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicJaw_GenIII",
-      "price": -10
+      "price": 21958
     },
     {
       "abr": "enigmatickidney",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicKidney_GenIII",
-      "price": -10
+      "price": 9125
     },
     {
       "abr": "enigmaticleg",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicLeg_GenIII",
-      "price": -10
+      "price": 25708
     },
     {
       "abr": "enigmaticliver",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicLiver_GenIII",
-      "price": -10
+      "price": 16667
     },
     {
       "abr": "enigmaticlung",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicLung_GenIII",
-      "price": -10
+      "price": 10625
     },
     {
       "abr": "enigmaticmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenIII",
-      "price": -10
+      "price": 13333
     },
     {
       "abr": "enigmaticneckshroud",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicNeck_GenIII",
-      "price": -10
+      "price": 17792
     },
     {
       "abr": "enigmaticneuralenchanter",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicBrain_GenIII",
-      "price": -10
+      "price": 93708
     },
     {
       "abr": "enigmaticnose",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicNose_GenIII",
-      "price": -10
+      "price": 10625
     },
     {
       "abr": "enigmaticspine",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicSpine_GenIII",
-      "price": -10
+      "price": 23833
     },
     {
       "abr": "enigmatictorsoshroud",
       "category": "Enigmatic bionic",
       "defname": "SNS_Item_BionicTorso_GenIII",
-      "price": -10
+      "price": 21958
     },
     {
       "abr": "eternalpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenIII",
-      "price": -10
+      "price": 13592
     },
     {
       "abr": "eternalrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenIII",
-      "price": -10
+      "price": 29450
     },
     {
       "abr": "eternalshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenIII",
-      "price": -10
+      "price": 46750
     },
     {
       "abr": "eternalsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenIII",
-      "price": -10
+      "price": 75300
     },
     {
       "abr": "eternitycell",
       "category": "Power",
       "defname": "SNS_Hidden",
-      "price": -10
+      "price": 1439000
     },
     {
       "abr": "eternium",
       "category": "Raw resources",
       "defname": "SNS_Eternium",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "forbiddenknowledge(cosmiccomponent#2/5)",
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_II",
-      "price": -10
+      "price": 58333
     },
     {
       "abr": "fractureofgreatness(cosmiccomponent#1/5)",
       "category": "Artifacts",
       "defname": "SNS_CosmicCall_Component_I",
-      "price": -10
+      "price": 41667
     },
     {
       "abr": "giftofeternity",
@@ -6640,25 +6640,25 @@
       "abr": "giga-television",
       "category": "Recreation",
       "defname": "SNS_Television_GenI",
-      "price": -10
+      "price": 28633
     },
     {
       "abr": "handheldcosmiclance",
       "category": "Ranged weapons",
       "defname": "SNS_CosmicLance",
-      "price": -10
+      "price": 109675
     },
     {
       "abr": "hedonia",
       "category": "Drugs",
       "defname": "SNS_Hedonia",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "hedonisticmeal",
       "category": "Meals",
       "defname": "SNS_Meal_Normal_GenIII",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "hedonist'sdream",
@@ -6670,73 +6670,73 @@
       "abr": "high-yieldtelescope",
       "category": "Recreation",
       "defname": "SNS_Telescope_GenI",
-      "price": -10
+      "price": 4250
     },
     {
       "abr": "lightstellarturret",
       "category": "Security",
       "defname": "SNS_Turret_LightCosmic",
-      "price": -10
+      "price": 3758
     },
     {
       "abr": "lux",
       "category": "Drugs",
       "defname": "SNS_Lux",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "luxuriousnutrientbar",
       "category": "Meals",
       "defname": "SNS_Meal_Nutrient_GenIII",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "nutrientbar",
       "category": "Meals",
       "defname": "SNS_Meal_Nutrient_GenI",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "nutrientprocessor",
       "category": "Production",
       "defname": "Table_SNS_NutrientProcessor",
-      "price": -10
+      "price": 2417
     },
     {
       "abr": "panacea",
       "category": "Drugs",
       "defname": "SNS_Panacea",
-      "price": -10
+      "price": 750
     },
     {
       "abr": "patterntransmissionunit",
       "category": "Recreation",
       "defname": "SNS_Television_GenIII",
-      "price": -10
+      "price": 103583
     },
     {
       "abr": "perditionlightstellarturret",
       "category": "Security",
       "defname": "SNS_Turret_PerditionLightCosmic",
-      "price": -10
+      "price": 4033
     },
     {
       "abr": "portablecosmicreactorgeneration1",
       "category": "Power",
       "defname": "SNS_Reactor_I_Portable",
-      "price": -10
+      "price": 5667
     },
     {
       "abr": "portablecosmicreactorgeneration2",
       "category": "Power",
       "defname": "SNS_Reactor_II_Portable",
-      "price": -10
+      "price": 54375
     },
     {
       "abr": "r.i.f.t.fabricator",
       "category": "Production",
       "defname": "Table_SNS_CosmicCall",
-      "price": -10
+      "price": 98183
     },
     {
       "abr": "stablematter",
@@ -6748,187 +6748,187 @@
       "abr": "starsteel",
       "category": "Raw resources",
       "defname": "SNS_Unobtainium",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "starsteelhelmet",
       "category": "Headgear",
       "defname": "SNS_Apparel_CosmicAlloyHelmet",
-      "price": -10
+      "price": 4117
     },
     {
       "abr": "starsteelplatearmor",
       "category": "Armor",
       "defname": "SNS_Apparel_CosmicAlloyPlateArmor",
-      "price": -10
+      "price": 23883
     },
     {
       "abr": "starsteelwool",
       "category": "Manufactured",
       "defname": "SNS_Unobtainium_Fiber",
-      "price": -10
+      "price": 42
     },
     {
       "abr": "stellararm",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicArm_GenI",
-      "price": -10
+      "price": 4367
     },
     {
       "abr": "stellarbionicforge",
       "category": "Production",
       "defname": "Table_SNS_BionicCraftingStation_GenI",
-      "price": -10
+      "price": 3283
     },
     {
       "abr": "stellarcomputer",
       "category": "Recreation",
       "defname": "SNS_Computer_GenI",
-      "price": -10
+      "price": 16500
     },
     {
       "abr": "stellardigestivesystem",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicStomach_GenI",
-      "price": -10
+      "price": 2367
     },
     {
       "abr": "stellarear",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicEar_GenI",
-      "price": -10
+      "price": 3033
     },
     {
       "abr": "stellareye",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicEye_GenI",
-      "price": -10
+      "price": 3033
     },
     {
       "abr": "stellarheadshroud",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicHead_GenI",
-      "price": -10
+      "price": 1950
     },
     {
       "abr": "stellarheart",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicHeart_GenI",
-      "price": -10
+      "price": 2033
     },
     {
       "abr": "stellarjaw",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicJaw_GenI",
-      "price": -10
+      "price": 1950
     },
     {
       "abr": "stellarkidney",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicKidney_GenI",
-      "price": -10
+      "price": 1700
     },
     {
       "abr": "stellarleg",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicLeg_GenI",
-      "price": -10
+      "price": 4367
     },
     {
       "abr": "stellarliver",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicLiver_GenI",
-      "price": -10
+      "price": 2367
     },
     {
       "abr": "stellarlung",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicLung_GenI",
-      "price": -10
+      "price": 2367
     },
     {
       "abr": "stellarmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenI",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "stellarneckshroud",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicNeck_GenI",
-      "price": -10
+      "price": 1950
     },
     {
       "abr": "stellarneuralenchanter",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicBrain_GenI",
-      "price": -10
+      "price": 4700
     },
     {
       "abr": "stellarnose",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicNose_GenI",
-      "price": -10
+      "price": 3033
     },
     {
       "abr": "stellarpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenI",
-      "price": -10
+      "price": 2417
     },
     {
       "abr": "stellarrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenI",
-      "price": -10
+      "price": 5117
     },
     {
       "abr": "stellarshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenI",
-      "price": -10
+      "price": 3775
     },
     {
       "abr": "stellarsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenI",
-      "price": -10
+      "price": 6475
     },
     {
       "abr": "stellarspine",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicSpine_GenI",
-      "price": -10
+      "price": 3950
     },
     {
       "abr": "stellartorsoshroud",
       "category": "Stellar bionic",
       "defname": "SNS_Item_BionicTorso_GenI",
-      "price": -10
+      "price": 1950
     },
     {
       "abr": "stim-iv",
       "category": "Drugs",
       "defname": "SNS_Stim_I",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "stim-vii",
       "category": "Drugs",
       "defname": "SNS_Stim_II",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "stim-x",
       "category": "Drugs",
       "defname": "SNS_Stim_III",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "temporaltelescope",
       "category": "Recreation",
       "defname": "SNS_Telescope_GenII",
-      "price": -10
+      "price": 38542
     },
     {
       "abr": "theb.e.h.o.l.d.e.r.",
@@ -6940,7 +6940,7 @@
       "abr": "theexarch",
       "category": "Ranged weapons",
       "defname": "SNS_EterniumLance",
-      "price": -10
+      "price": 422717
     },
     {
       "abr": "ther.e.c.u.r.s.i.o.n.",
@@ -6958,7 +6958,7 @@
       "abr": "theutopiadevice",
       "category": "Production",
       "defname": "Table_SNS_PinnacleFabricator",
-      "price": -10
+      "price": 1303392
     },
     {
       "abr": "zenitharm",
