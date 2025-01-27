@@ -6975,7 +6975,7 @@
       },
       "description": "Including the 'Ordinary', the common ancestor of Miho is a \"Red Fox\", not a human. Of course, this is not due to natural evolution but is presumed to be the result of uplift by an unknown transcendent being. This means they look like humans but are not actually human. They have an \"Elegans\" linked with mechanites in their bodies, which determines the strength of their psychic powers depending on the amount of sunlight. Because of this organ, these foxes pray to the sun and energy.",
       "defName": "Alien_Miho",
-      "enabled": false,
+      "enabled": true,
       "name": "Miho",
       "price": 2500
     },
@@ -7011,7 +7011,7 @@
       },
       "description": "The Marvelous gift of glitterworld bionics. A humanoid with cat ears and a tail.",
       "defName": "Alien_Nyaron",
-      "enabled": false,
+      "enabled": true,
       "name": "Nyaron",
       "price": 5000
     },
@@ -7053,7 +7053,7 @@
       },
       "description": "An all-female race of humans spliced with fox genes. Originally, they were Glitterworld designermates from the planet Aolara, but an internal war forced them to leave their homeworld. Now they are spread among the rim.",
       "defName": "Kurin_Race",
-      "enabled": false,
+      "enabled": true,
       "name": "Kurin",
       "price": 2917
     },

@@ -13021,11 +13021,629 @@
       "price": 2258
     },
     {
+      "abr": "alc",
+      "category": "Rimatomics Product",
+      "defname": "ALC",
+      "price": 67
+    },
+    {
+      "abr": "alouisrifle",
+      "category": "Ranged weapons",
+      "defname": "WFF_AlouisRifle",
+      "price": 1583
+    },
+    {
+      "abr": "ancestralwear",
+      "category": "Moosesian apparel",
+      "defname": "WFF_Ancestralwear",
+      "price": 342
+    },
+    {
+      "abr": "antlerbreaker",
+      "category": "Ranged weapons",
+      "defname": "WFF_Antlerbreaker",
+      "price": 1000
+    },
+    {
+      "abr": "antrifle",
+      "category": "Ranged weapons",
+      "defname": "WFF_Antrifle",
+      "price": 2500
+    },
+    {
+      "abr": "antspray",
+      "category": "Ranged weapons",
+      "defname": "WFF_Antkiller",
+      "price": 1333
+    },
+    {
+      "abr": "archwood",
+      "category": "Ranged weapons",
+      "defname": "WFF_Archwood",
+      "price": 233
+    },
+    {
+      "abr": "atom",
+      "category": "Rimatomics Product",
+      "defname": "ATOM",
+      "price": 67
+    },
+    {
+      "abr": "autoratcannon",
+      "category": "Ranged weapons",
+      "defname": "WFF_AutoRatling",
+      "price": 1917
+    },
+    {
+      "abr": "beamsplitter",
+      "category": "Rimatomics Product",
+      "defname": "BeamSplitter",
+      "price": 67
+    },
+    {
+      "abr": "berthierlinegun",
+      "category": "Ranged weapons",
+      "defname": "WFF_BLG",
+      "price": 1667
+    },
+    {
+      "abr": "branchlever",
+      "category": "Ranged weapons",
+      "defname": "WFF_BranchGun",
+      "price": 1500
+    },
+    {
+      "abr": "ceremonialdress",
+      "category": "Moosesian apparel",
+      "defname": "WFF_CeremonialDress",
+      "price": 367
+    },
+    {
+      "abr": "churchmaidengarb",
+      "category": "Moosesian apparel",
+      "defname": "WFF_ChurchMaidenDress",
+      "price": 342
+    },
+    {
+      "abr": "churchmaidenveil",
+      "category": "Moosesian headgear",
+      "defname": "WFF_ChurchMaidenVeil",
+      "price": 112
+    },
+    {
+      "abr": "civilianwear",
+      "category": "Moosesian apparel",
+      "defname": "WFF_Civilianwear",
+      "price": 342
+    },
+    {
+      "abr": "conductorwand",
+      "category": "Melee weapons",
+      "defname": "WFF_Conductor_Wand",
+      "price": 3333
+    },
+    {
+      "abr": "controlrodactuator",
+      "category": "Rimatomics Product",
+      "defname": "ControlRodActuator",
+      "price": 67
+    },
+    {
+      "abr": "depleteduranium",
+      "category": "Rimatomics Product",
+      "defname": "DepletedUraniumPellets",
+      "price": 13
+    },
+    {
+      "abr": "dieselboiler",
+      "category": "Ranged weapons",
+      "defname": "WFF_Dieselboiler",
+      "price": 950
+    },
+    {
+      "abr": "dieselwork",
+      "category": "Ranged weapons",
+      "defname": "WFF_Dieselwork",
+      "price": 833
+    },
+    {
+      "abr": "driveactuator",
+      "category": "Rimatomics Product",
+      "defname": "DriveActuator",
+      "price": 67
+    },
+    {
+      "abr": "dusabotround",
+      "category": "Sabot Rounds",
+      "defname": "RailgunSabotDU",
+      "price": 83
+    },
+    {
+      "abr": "ers",
+      "category": "Rimatomics Product",
+      "defname": "ERS",
+      "price": 67
+    },
+    {
+      "abr": "farmoveralls",
+      "category": "Moosesian apparel",
+      "defname": "WFF_FarmOveralls",
+      "price": 367
+    },
+    {
+      "abr": "firefly",
+      "category": "Ranged weapons",
+      "defname": "WFF_Firefly",
+      "price": 2500
+    },
+    {
+      "abr": "firehorn",
+      "category": "Ranged weapons",
+      "defname": "WFF_Firehorn",
+      "price": 750
+    },
+    {
+      "abr": "firespitter",
+      "category": "Ranged weapons",
+      "defname": "WFF_Firespitter",
+      "price": 667
+    },
+    {
+      "abr": "flowercrown",
+      "category": "Moosesian headgear",
+      "defname": "WFF_Flowercrown",
+      "price": 112
+    },
+    {
+      "abr": "fuelrods",
+      "category": "Nuclear fuel",
+      "defname": "FuelRods",
+      "price": 1667
+    },
+    {
+      "abr": "fuelrodsmox",
+      "category": "Nuclear fuel",
+      "defname": "FuelRodsMOX",
+      "price": 3333
+    },
+    {
+      "abr": "furhat",
+      "category": "Moosesian headgear",
+      "defname": "WFF_FurHat",
+      "price": 206
+    },
+    {
+      "abr": "generalpickhat",
+      "category": "Moosesian headgear",
+      "defname": "WFF_GeneralPickhat",
+      "price": 500
+    },
+    {
+      "abr": "generaluniform",
+      "category": "Moosesian apparel",
+      "defname": "WFF_GeneralUniform",
+      "price": 608
+    },
+    {
+      "abr": "general'sbicorne",
+      "category": "Moosesian headgear",
+      "defname": "WFF_GeneralBicorne",
+      "price": 155
+    },
+    {
+      "abr": "guardshako",
+      "category": "Moosesian headgear",
+      "defname": "WFF_GuardShako",
+      "price": 264
+    },
+    {
+      "abr": "guarduniform",
+      "category": "Moosesian apparel",
+      "defname": "WFF_GuardUniform",
+      "price": 425
+    },
+    {
+      "abr": "guard'sbearskin",
+      "category": "Moosesian headgear",
+      "defname": "WFF_GuardBearskin",
+      "price": 230
+    },
+    {
+      "abr": "handratling",
+      "category": "Ranged weapons",
+      "defname": "WFF_HandRatling",
+      "price": 1667
+    },
+    {
+      "abr": "horsepole",
+      "category": "Melee weapons",
+      "defname": "WFF_Horsepole",
+      "price": 833
+    },
+    {
+      "abr": "infirmieruniform",
+      "category": "Moosesian apparel",
+      "defname": "WFF_InfirmierUniform",
+      "price": 425
+    },
+    {
+      "abr": "ironheap",
+      "category": "Melee weapons",
+      "defname": "WFF_Ironheap",
+      "price": 833
+    },
+    {
+      "abr": "ironhelm",
+      "category": "Moosesian headgear",
+      "defname": "WFF_Ironhelm",
+      "price": 312
+    },
+    {
+      "abr": "ironhide",
+      "category": "Moosesian apparel",
+      "defname": "WFF_Ironhide",
+      "price": 1042
+    },
+    {
+      "abr": "ironspin",
+      "category": "Ranged weapons",
+      "defname": "WFF_Spinner",
+      "price": 1000
+    },
+    {
+      "abr": "isolinearprocessor",
+      "category": "Manufactured",
+      "defname": "IsolinearProcessor",
+      "price": 3333
+    },
+    {
+      "abr": "kinderwurst",
+      "category": "Foods",
+      "defname": "MS_Kinderwurst",
+      "price": 42
+    },
+    {
+      "abr": "lensmodule",
+      "category": "Rimatomics Product",
+      "defname": "LenseModule",
+      "price": 67
+    },
+    {
+      "abr": "manchaser",
+      "category": "Melee weapons",
+      "defname": "WFF_Manchaser",
+      "price": 274
+    },
+    {
+      "abr": "medpod",
+      "category": "Furniture",
+      "defname": "MedPodStandard",
+      "price": 133333
+    },
+    {
+      "abr": "medpodlux",
+      "category": "Furniture",
+      "defname": "MedPodLux",
+      "price": 158333
+    },
+    {
+      "abr": "meps",
+      "category": "Rimatomics Product",
+      "defname": "MEPS",
+      "price": 67
+    },
+    {
+      "abr": "metalbuss",
+      "category": "Ranged weapons",
+      "defname": "WFF_Metalbuss",
+      "price": 750
+    },
+    {
+      "abr": "militiacap",
+      "category": "Moosesian headgear",
+      "defname": "WFF_MilitiaCap",
+      "price": 100
+    },
+    {
+      "abr": "militiaoutfit",
+      "category": "Moosesian apparel",
+      "defname": "WFF_MilitiaOutfit",
+      "price": 323
+    },
+    {
+      "abr": "missilefuselage",
+      "category": "Rimatomics Product",
+      "defname": "MissileFuselage",
+      "price": 67
+    },
+    {
+      "abr": "moosesian",
+      "category": "Animal",
+      "defname": "Moosesian",
+      "price": -10
+    },
+    {
+      "abr": "moosesianboxartillery",
+      "category": "Security",
+      "defname": "MS_VolleyCannonBase",
+      "price": 775
+    },
+    {
+      "abr": "moosesianbra",
+      "category": "Moosesian apparel",
+      "defname": "WFF_MSBra",
+      "price": 95
+    },
+    {
+      "abr": "moosesianfieldartillery",
+      "category": "Security",
+      "defname": "MS_ArtilleryCannonBase12pdr",
+      "price": 633
+    },
+    {
+      "abr": "moosesianmeat",
+      "category": "Meat",
+      "defname": "Meat_Moosesian",
+      "price": 3
+    },
+    {
+      "abr": "moosesianpanties",
+      "category": "Moosesian apparel",
+      "defname": "WFF_MSPanties",
+      "price": 76
+    },
+    {
+      "abr": "moosesianroundshot",
+      "category": "Moosesian cannonball",
+      "defname": "MS_Cannonball_12pdr_Roundshot",
+      "price": 92
+    },
+    {
+      "abr": "moosesianslaveoutfit",
+      "category": "Moosesian apparel",
+      "defname": "WFF_MSSlaveOutfit",
+      "price": 285
+    },
+    {
+      "abr": "moosesiansphericalcaseshot",
+      "category": "Moosesian cannonball",
+      "defname": "MS_Cannonball_12pdr_Sphereshot",
+      "price": 92
+    },
+    {
+      "abr": "moosesiantightpants",
+      "category": "Moosesian apparel",
+      "defname": "WFF_MSTightPants",
+      "price": 408
+    },
+    {
+      "abr": "moppmask(desert)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskDesert",
+      "price": 533
+    },
+    {
+      "abr": "moppmask(snow)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskSnow",
+      "price": 533
+    },
+    {
+      "abr": "moppmask(woodland)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppMaskWoodland",
+      "price": 533
+    },
+    {
+      "abr": "moppsuit(desert)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitDesert",
+      "price": 550
+    },
+    {
+      "abr": "moppsuit(snow)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitSnow",
+      "price": 550
+    },
+    {
+      "abr": "moppsuit(woodland)",
+      "category": "Mopp",
+      "defname": "Apparel_MoppSuitWoodland",
+      "price": 550
+    },
+    {
+      "abr": "nuclearwarhead",
+      "category": "Rimatomics Product",
+      "defname": "FissionWarhead",
+      "price": 24000
+    },
+    {
+      "abr": "oldguard'sbearskin",
+      "category": "Moosesian headgear",
+      "defname": "WFF_OldGuardBearskin",
+      "price": 230
+    },
+    {
+      "abr": "pikecutter",
+      "category": "Melee weapons",
+      "defname": "WFF_Pikebreaker",
+      "price": 833
+    },
+    {
+      "abr": "plutonium",
+      "category": "Rimatomics Product",
+      "defname": "Plutonium",
+      "price": 100
+    },
+    {
+      "abr": "potassiumiodide",
+      "category": "Drugs",
+      "defname": "PotassiumIodide",
+      "price": 53
+    },
+    {
+      "abr": "r.t.g",
+      "category": "Nuclear",
+      "defname": "RimatomicsRTG",
+      "price": 4333
+    },
+    {
+      "abr": "radiationmask",
+      "category": "Hazmat",
+      "defname": "Apparel_RadiationMask",
+      "price": 244
+    },
+    {
+      "abr": "radiationsuit",
+      "category": "Hazmat",
+      "defname": "Apparel_RadiationSuit",
+      "price": 383
+    },
+    {
+      "abr": "rakali",
+      "category": "Ranged weapons",
+      "defname": "WFF_Rakali",
+      "price": 333
+    },
+    {
+      "abr": "rocketengine",
+      "category": "Rimatomics Product",
+      "defname": "RocketEngine",
+      "price": 67
+    },
+    {
+      "abr": "rokali",
+      "category": "Ranged weapons",
+      "defname": "WFF_Rokali",
+      "price": 667
+    },
+    {
+      "abr": "sabotround",
+      "category": "Sabot Rounds",
+      "defname": "RailgunSabot",
+      "price": 17
+    },
+    {
+      "abr": "scad",
+      "category": "Rimatomics Product",
+      "defname": "SCAD",
+      "price": 67
+    },
+    {
+      "abr": "signalsaber",
+      "category": "Melee weapons",
+      "defname": "WFF_Signal_Saber",
+      "price": 1250
+    },
+    {
+      "abr": "skirmishshako",
+      "category": "Moosesian headgear",
+      "defname": "WFF_SkirmishShako",
+      "price": 118
+    },
+    {
+      "abr": "stormtroopercap",
+      "category": "Moosesian headgear",
+      "defname": "WFF_StormtrooperCap",
+      "price": 312
+    },
+    {
+      "abr": "sunhelmet",
+      "category": "Moosesian headgear",
+      "defname": "WFF_FarmerSunhelm",
+      "price": 95
+    },
+    {
+      "abr": "surgicalapron",
+      "category": "Moosesian apparel",
+      "defname": "WFF_SurgicalApron",
+      "price": 350
+    },
+    {
+      "abr": "targetingchip",
+      "category": "Rimatomics Product",
+      "defname": "TargetingChip",
+      "price": 67
+    },
+    {
+      "abr": "trunkgun",
+      "category": "Ranged weapons",
+      "defname": "WFF_TrunkGun",
+      "price": 1167
+    },
+    {
+      "abr": "turbineblades",
+      "category": "Rimatomics Product",
+      "defname": "turbineBlade",
+      "price": 2
+    },
+    {
+      "abr": "uraniumpellets",
+      "category": "Rimatomics Product",
+      "defname": "UraniumPellets",
+      "price": 3
+    },
+    {
+      "abr": "vanguardpickhat",
+      "category": "Moosesian headgear",
+      "defname": "WFF_VanguardPickhat",
+      "price": 442
+    },
+    {
+      "abr": "vanguardshako",
+      "category": "Moosesian headgear",
+      "defname": "WFF_VanguardShako",
+      "price": 118
+    },
+    {
+      "abr": "vanguarduniform",
+      "category": "Moosesian apparel",
+      "defname": "WFF_VanguardUniform",
+      "price": 475
+    },
+    {
+      "abr": "vetpod",
+      "category": "Furniture",
+      "defname": "MedPodAnimal",
+      "price": 141667
+    },
+    {
+      "abr": "vetpodlarge",
+      "category": "Furniture",
+      "defname": "MedPodAnimalMedium",
+      "price": 145833
+    },
+    {
+      "abr": "vetpodmega",
+      "category": "Furniture",
+      "defname": "MedPodAnimalBig",
+      "price": 162500
+    },
+    {
+      "abr": "warriorshako",
+      "category": "Moosesian headgear",
+      "defname": "WFF_WarriorShako",
+      "price": 118
+    },
+    {
+      "abr": "warrioruniform",
+      "category": "Moosesian apparel",
+      "defname": "WFF_WarriorUniform",
+      "price": 425
+    },
+    {
+      "abr": "woodpecker",
+      "category": "Melee weapons",
+      "defname": "WFF_Headcutter",
+      "price": 750
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 2171
+  "total": 2274
 }
