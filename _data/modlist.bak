@@ -6,6 +6,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "2633276599",
+    "version": "1.4"
+  },
+  {
     "author": "RedMattis",
     "name": "Big and Small - Framework",
     "steamId": "2925432336",
@@ -40,12 +46,6 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Ancot",
@@ -96,12 +96,6 @@
     "version": "0.0.0.0"
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Core",
-    "steamId": "2260097569",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
     "name": "Vanilla Factions Expanded - Mechanoids",
     "steamId": "2329011599",
@@ -120,20 +114,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
   },
   {
-    "author": "Ricky and Kurtus_Mob",
-    "name": "The Brotherhood Compendium \"Continued\"",
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended Armory",
     "steamId": null,
     "version": null
   },
@@ -150,12 +144,6 @@
     "version": null
   },
   {
-    "author": "Helixien",
-    "name": "ReGrowth: Wastelands",
-    "steamId": "2122461695",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
@@ -168,14 +156,14 @@
     "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Milira Race",
-    "steamId": "3256974620",
-    "version": "1.0.0.0"
+    "author": "Waffel F.",
+    "name": "Moosesian race",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Ancot",
-    "name": "Milira Race Gene Patch",
+    "author": "Waffel F.",
+    "name": "Moosesian - CE Patch",
     "steamId": null,
     "version": null
   },
@@ -264,14 +252,44 @@
     "version": "1.5.0"
   },
   {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Atlas",
     "name": "Fallout Traits Continued",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Teiwaz",
+    "name": "GTG Orbital Traders",
+    "steamId": "2961168731",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Cavenaugh",
+    "name": "[KV] Call Trade Ships [1.5 Patched]",
+    "steamId": "3226502149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FLASHPOINT55",
+    "name": "RPG Style Level Up Mod",
+    "steamId": "1995668415",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Alias",
     "name": "De-generalize Work",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Al Sweigart",
+    "name": "Main Character Plot Armor",
     "steamId": null,
     "version": null
   },
@@ -288,38 +306,8 @@
     "version": "1.5"
   },
   {
-    "author": "Teiwaz",
-    "name": "GTG Orbital Traders",
-    "steamId": "2961168731",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Cavenaugh",
-    "name": "[KV] Call Trade Ships [1.5 Patched]",
-    "steamId": "3226502149",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "ShadowX99",
     "name": "Blood Color Genes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "1trickPwnyta",
-    "name": "Unlimited Threat Scale",
-    "steamId": "2562732435",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Al Sweigart",
-    "name": "Main Character Plot Armor",
     "steamId": null,
     "version": null
   },
@@ -366,6 +354,12 @@
     "version": null
   },
   {
+    "author": "1trickPwnyta",
+    "name": "Sounds Like a Minecraft Villager",
+    "steamId": "3328716565",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "avilmask",
     "name": "Research Whatever",
     "steamId": "2552092060",
@@ -402,6 +396,12 @@
     "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
   },
   {
+    "author": "Sentinel",
+    "name": "Alarm Sound Replacer - Ah Sht Here We Go Again",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "1trickPwnyta",
     "name": "1trickPwnyta's Defaults",
     "steamId": "3285178686",
@@ -412,12 +412,6 @@
     "name": "Allow Tool",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Brok",
-    "name": "No Limit Raid Point",
-    "steamId": "3245589752",
-    "version": "1.0.0.0"
   },
   {
     "author": "Neronix17",
@@ -440,6 +434,24 @@
   {
     "author": "Archangel",
     "name": "Replantable Special Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Brok",
+    "name": "No Limit Raid Point",
+    "steamId": "3245589752",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "1trickPwnyta",
+    "name": "Unlimited Threat Scale",
+    "steamId": "2562732435",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Jdalt40",
+    "name": "No More Lethal Damage Threshold",
     "steamId": null,
     "version": null
   },

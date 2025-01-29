@@ -6891,6 +6891,84 @@
       },
       "defName": "Miho_EnergyMeditation_Trait",
       "name": "ilovefire"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+25% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "cowardly"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-50% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-100% suppressability"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Combat Extended",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Bravery",
+      "name": "fearless"
     }
   ],
   "races": [
@@ -6900,6 +6978,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Min comfortable temperature",
@@ -6922,6 +7003,9 @@
         "stats": [
           "+60.00 Mass",
           "+70% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
           "+16.0C Min comfortable temperature",
@@ -6944,6 +7028,9 @@
         "stats": [
           "+60.00 Mass",
           "+100% Flammability",
+          "+0.5 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
           "+$1500 Market value",
           "+4 Honor value",
           "+42 Carrying capacity",
@@ -6964,10 +7051,12 @@
           "+0% Toxic environment resistance",
           "+4.10 Move speed",
           "+90% Aiming time",
-          "+2.0 Melee dodge chance",
           "+3.0 Melee hit chance",
           "+50.0% Armor - Heat",
           "+150% Learning rate factor",
+          "+100% Suppressability",
+          "+50% Smoke sensitivity",
+          "+75.00% Aiming accuracy",
           "-1.00 Neural heat recovery rate"
         ],
         "mod": "Unknown",
@@ -6985,6 +7074,9 @@
         "stats": [
           "+65.00 Mass",
           "+100% Flammability",
+          "+10.0 Melee dodge chance",
+          "+130% Melee critical chance",
+          "+50% Melee parry chance",
           "+$3000 Market value",
           "+5 Honor value",
           "+75 Carrying capacity",
@@ -7003,8 +7095,13 @@
           "+40.0C Max comfortable temperature",
           "+5.20 Move speed",
           "+95% Aiming time",
-          "+10.0 Melee dodge chance",
-          "+1.2 Melee hit chance"
+          "+1.2 Melee hit chance",
+          "+100.00% Aiming accuracy",
+          "+90% Suppressability",
+          "+90% Smoke sensitivity",
+          "+30 Bulk capacity",
+          "+60 Carry weight",
+          "+125% Reload speed"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -7021,6 +7118,9 @@
         "stats": [
           "+50.00 Mass",
           "+80% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.80 Move speed",
           "+40% Mental break threshold",
@@ -7046,7 +7146,9 @@
           "+1.1 Cooking speed",
           "+100% Rest rate multiplier",
           "+80% Plant work speed",
-          "+0.5 Filth rate"
+          "+0.5 Filth rate",
+          "+100% Suppressability",
+          "+100% Smoke sensitivity"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -7061,143 +7163,23 @@
       "data": {
         "customName": false,
         "stats": [
-          "+80.00 Mass",
+          "+200.00 Mass",
           "+70% Flammability",
-          "+120.0 Min containment strength",
-          "+$5800 Market value",
-          "+5 Honor value",
-          "+5.20 Move speed",
-          "+45.0C Max comfortable temperature",
-          "-45.0C Min comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+125% Eating speed",
-          "+2.3 Max nutrition",
-          "+150 Carrying capacity",
-          "+45 Meat amount",
-          "+75 Leather amount",
-          "+75% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+18% Mental break threshold",
-          "+60% Toxic resistance",
-          "+60% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+125% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+115.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+125.00% Social impact",
-          "+50.00% Trade price improvement",
-          "+10% Mechanoid shredding efficiency",
-          "+10% Mechanoid shredding speed",
-          "+10% Smelting speed",
-          "+10% General labor speed",
-          "+90% Construction speed",
-          "+10% Butchery efficiency",
-          "+10% Butchery speed",
-          "+110.00% Food poison chance",
-          "+0.1 Cooking speed",
-          "+80% Plant work speed",
-          "+120% Plant harvest yield",
-          "+100% Global learning factor",
-          "+10% Research speed",
-          "+70% Medical tend quality",
-          "+10% Drug synthesis speed",
-          "+25% Medical surgery success chance",
-          "+150% Immunity gain speed",
-          "+80% Mining speed",
-          "+120% Mining yield",
-          "+40.0% Armor - Sharp",
-          "+30.0% Armor - Blunt",
-          "+40.0% Armor - Heat",
-          "+100% Injury healing factor",
-          "+5 Wildness"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "It is a beautiful creature with human and dragon characteristics. It is mainly seen in the wild. Their silver-haired fur is hard and soft, making them expensive on the black market and often a target for hunters.",
-      "defName": "Dragonian_Race",
-      "enabled": true,
-      "name": "Dragonian",
-      "price": 9667
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+52.00 Mass",
-          "+0% Flammability",
-          "+$5500 Market value",
-          "+4.60 Move speed",
-          "+22% Mental break threshold",
-          "+45.0C Max comfortable temperature",
-          "-25.0C Min comfortable temperature",
-          "+108% Immunity gain speed",
-          "+100 Carrying capacity",
-          "+10 Honor value",
-          "+110 Meat amount",
-          "+65 Leather amount",
-          "+100% Global learning factor",
-          "+100% Psychic sensitivity",
-          "+90% Aiming time",
-          "+95% Pain shock threshold",
-          "+100% General labor speed",
-          "+100% Drug synthesis speed",
-          "+100% Medical tend speed",
-          "+100% Medical tend quality",
-          "+100% Medical surgery success chance",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Trade price improvement",
-          "+100.00% Social impact",
-          "+100% Global work speed",
-          "+100% Eating speed",
-          "+100% Construction speed",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% Research speed",
-          "+100% Mining speed",
-          "+100% Mining yield",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+100% Plant harvest yield",
-          "+25.0% Armor - Heat",
-          "+2.00 Neural heat recovery rate",
-          "+150% / day Meditation psyfocus gain"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "An ancient species that soars through the skies, the elves of the heavens, known as Milira. Characterized by their pure white wings and the diverse auras that crown their heads, they are often mistaken for angels and have been worshipped by many humans.\n\n      In the distant past, the Milira were strong and warlike. They seemed to be born for battle, relying on their innate combat instincts and superior physical capabilities. They excelled at using swift and fierce close combat, as well as devastating spells to shatter their enemies, thus dominating their realm.\n      \n      However, after vanquishing all their formidable foes, the Milira gradually lost the meaning of battle. The race needed to find a new purpose for existence. But with their exceedingly long lifespans, the Milira's interest in anything could be worn away by the passage of time, leaving only the unfathomable sea of knowledge that continually drew them to explore.\n      \n      Gradually, the Milira ceased to yearn for battle and began to pursue knowledge. They collected languages and texts from various races, observed every corner of the world; built floating cities, and established libraries to store their accumulating wisdom. Over time, the combat skills of the Milira were buried deep in the collective memory, covered by layer upon layer of fertile soil called knowledge.\n      \n      The Milira had a long period of friendly relations with humans and occasionally guided them in the development of science and technology. However, after a certain incident, the Milira became enemies with humans, and the clouds of war gradually enveloped everyone. A conflict seemed inevitable...",
-      "defName": "Milira_Race",
-      "enabled": true,
-      "name": "Milira",
-      "price": 9167
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+90.00 Mass",
-          "+70% Flammability",
+          "+0.9 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
           "+$2500 Market value",
-          "+6.90 Move speed",
+          "+7.00 Move speed",
           "+20% Mental break threshold",
           "+21.0C Max comfortable temperature",
           "-20.0C Min comfortable temperature",
-          "+150 Carrying capacity",
+          "+500 Carrying capacity",
           "+100% Pain shock threshold",
           "+0% Toxic resistance",
           "+0% Toxic environment resistance",
           "+110% Eating speed",
           "+150 Meat amount",
           "+60 Leather amount",
-          "+0.9 Melee dodge chance",
           "+120.00% Negotiation ability",
           "+150.00% Arrest success chance",
           "+150.00% Social impact",
@@ -7208,7 +7190,9 @@
           "+125% Plant work speed",
           "+120% Hunting stealth",
           "+125% Construction speed",
-          "+125% General labor speed"
+          "+125% General labor speed",
+          "+500 Carry weight",
+          "+120 Bulk capacity"
         ],
         "mod": "Unknown",
         "karmaType": null
