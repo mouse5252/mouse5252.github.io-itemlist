@@ -8,8 +8,8 @@
   {
     "author": "Owlchemist",
     "name": "Cherry Picker",
-    "steamId": "2633276599",
-    "version": "1.4"
+    "steamId": "3230046902",
+    "version": "1.5"
   },
   {
     "author": "RedMattis",
@@ -18,16 +18,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.4"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.4"
   },
   {
     "author": "Vectorial1024",
@@ -76,6 +76,12 @@
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
     "steamId": "3239583412",
     "version": "1.5.0.1"
+  },
+  {
+    "author": "MortalSmurph",
+    "name": "Advanced Standard Storyteller",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
@@ -264,6 +270,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Feng Xinzi and Mya",
+    "name": "Mya's fufu",
+    "steamId": "3266224389",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Atlas",
     "name": "Fallout Traits Continued",
     "steamId": null,
@@ -316,6 +328,12 @@
     "name": "Compressed Raid",
     "steamId": "3227665030",
     "version": "1.5"
+  },
+  {
+    "author": "Dr. Coffee-Cat",
+    "name": "Stonecutting Gives XP",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "ShadowX99",
@@ -412,12 +430,6 @@
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.7.3+1b7d7cb57a0a1a5a74476cd6f0775fb8ee67d71c"
-  },
-  {
-    "author": "Sentinel",
-    "name": "Alarm Sound Replacer - Ah Sht Here We Go Again",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "1trickPwnyta",

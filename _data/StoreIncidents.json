@@ -271,11 +271,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "levelskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
 		"price": 1,
 		"karmatype": "Good"
@@ -426,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 85
+	"total": 84
 }
