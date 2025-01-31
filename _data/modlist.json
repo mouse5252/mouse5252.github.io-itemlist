@@ -30,6 +30,12 @@
     "version": "11.0.4"
   },
   {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.1.1"
+  },
+  {
     "author": "Vectorial1024",
     "name": "Elite Bionics Framework",
     "steamId": "1665403571",
@@ -84,28 +90,16 @@
     "version": null
   },
   {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": "2854967442",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, Taranchuk and Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids 2",
-    "steamId": "3309003431",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk and ISOREX",
-    "name": "Vanilla Factions Expanded - Mechanoids",
-    "steamId": "2329011599",
-    "version": "1.0.1.2"
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Props and Decor",
+    "steamId": "2102143149",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
@@ -126,16 +120,28 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Reel",
+    "name": "Reel's Expanded Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mechs",
+    "steamId": "2973169158",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi and Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "CE Team",
     "name": "Combat Extended",
     "steamId": "2890901044",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "Epicguru",
-    "name": "Melee Animation",
-    "steamId": "2944488802",
-    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
   },
   {
     "author": "CE Team",
@@ -144,10 +150,28 @@
     "version": null
   },
   {
+    "author": "Epicguru",
+    "name": "Melee Animation",
+    "steamId": "2944488802",
+    "version": "1.0.0+46a9740cb50a3dad6d14d360704a585040167a04"
+  },
+  {
+    "author": "Allie, Erin, Major Quadrangle, Matsay and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Twink315",
     "name": "Vault-Tec - Handy things for your vault!",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   },
   {
     "author": "RedMattis",
@@ -164,6 +188,18 @@
   {
     "author": "RedMattis",
     "name": "Big and Small - More Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "pntfvur",
+    "name": "Milira CE Patch",
     "steamId": null,
     "version": null
   },
@@ -216,20 +252,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "explodoboy",
-    "name": "Ambition of the Cosmic",
+    "author": "Para0234",
+    "name": "Ambition of the Cosmic [Continued]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "explodoboy",
-    "name": "AOTC: True Pinnacle of Creation",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Underground Vault",
+    "author": "Para0234",
+    "name": "AOTC: True Pinnacle of Creation[Continued]",
     "steamId": null,
     "version": null
   },
@@ -294,12 +324,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "FLASHPOINT55",
-    "name": "RPG Style Level Up Mod",
-    "steamId": "1995668415",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Alias",
     "name": "De-generalize Work",
     "steamId": null,
@@ -340,12 +364,6 @@
     "name": "Blood Color Genes",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Slime-Senpai",
-    "name": "EndlessGrowth",
-    "steamId": "2894401734",
-    "version": "1.5.2.0"
   },
   {
     "author": "Ratys",

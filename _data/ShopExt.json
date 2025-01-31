@@ -2089,7 +2089,7 @@
       "name": "recluse"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3333,
       "removePrice": 1111,
@@ -2111,7 +2111,7 @@
       "name": "perfectmemory"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3333,
       "removePrice": 1111,
@@ -2139,7 +2139,7 @@
       "name": "occultist"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3333,
       "removePrice": 1111,
@@ -6850,28 +6850,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Vanilla Psycasts Expanded",
-        "karmaTypeForAdding": null
-      },
-      "defName": "VPE_Thrall",
-      "name": "thrall"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0,
       "description": "Not as much as pyromaniacs, but loves fire.",
       "stats": [
         "Flame meditation focus type allowed."
@@ -10061,6 +10039,102 @@
       },
       "defName": "S1_CageFighter",
       "name": "brute"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A strict principle of nonviolence which applies to all living things.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "vowofnonviolence"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is entombed in a mech master warcasket. No amount of pain will have an effect on them, and they can never go into a pain shock or drop unconscious due to pain. Timmy will be unable to do most tasks, except those necessary to maintain and build mechanoids.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Unknown",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VFEP_WarcasketTrait_Mech",
+      "name": "mechwarcasket"
     }
   ],
   "races": [
@@ -10085,7 +10159,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -10110,7 +10184,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -10294,6 +10368,72 @@
       "enabled": true,
       "name": "Moosesian",
       "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+52.00 Mass",
+          "+0% Flammability",
+          "+1.0 Melee dodge chance",
+          "+100% Melee critical chance",
+          "+100% Melee parry chance",
+          "+$5500 Market value",
+          "+4.60 Move speed",
+          "+22% Mental break threshold",
+          "+45.0C Max comfortable temperature",
+          "-25.0C Min comfortable temperature",
+          "+108% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+10 Honor value",
+          "+110 Meat amount",
+          "+65 Leather amount",
+          "+150% Global learning factor",
+          "+120% Psychic sensitivity",
+          "+90% Aiming time",
+          "+95% Pain shock threshold",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+150.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+80% Global work speed",
+          "+100% Eating speed",
+          "+100% Construction speed",
+          "+150% Mechanoid shredding efficiency",
+          "+180% Mechanoid shredding speed",
+          "+135% Smelting speed",
+          "+135% Research speed",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+100% Butchery efficiency",
+          "+20% Butchery speed",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+25.0% Armor - Heat",
+          "+2.00 Neural heat recovery rate",
+          "+150% / day Meditation psyfocus gain",
+          "+3 Mech bandwidth",
+          "+50 Carry weight",
+          "+25 Bulk capacity",
+          "+0% Suppressability",
+          "+0% Smoke sensitivity",
+          "+80% Night vision efficiency"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An ancient species that soars through the skies, the elves of the heavens, known as Milira. Characterized by their pure white wings and the diverse auras that crown their heads, they are often mistaken for angels and have been worshipped by many humans.\n\n      In the distant past, the Milira were strong and warlike. They seemed to be born for battle, relying on their innate combat instincts and superior physical capabilities. They excelled at using swift and fierce close combat, as well as devastating spells to shatter their enemies, thus dominating their realm.\n      \n      However, after vanquishing all their formidable foes, the Milira gradually lost the meaning of battle. The race needed to find a new purpose for existence. But with their exceedingly long lifespans, the Milira's interest in anything could be worn away by the passage of time, leaving only the unfathomable sea of knowledge that continually drew them to explore.\n      \n      Gradually, the Milira ceased to yearn for battle and began to pursue knowledge. They collected languages and texts from various races, observed every corner of the world; built floating cities, and established libraries to store their accumulating wisdom. Over time, the combat skills of the Milira were buried deep in the collective memory, covered by layer upon layer of fertile soil called knowledge.\n      \n      The Milira had a long period of friendly relations with humans and occasionally guided them in the development of science and technology. However, after a certain incident, the Milira became enemies with humans, and the clouds of war gradually enveloped everyone. A conflict seemed inevitable...",
+      "defName": "Milira_Race",
+      "enabled": true,
+      "name": "Milira",
+      "price": 9167
     }
   ]
 }
